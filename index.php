@@ -71,7 +71,7 @@
    	<div class="intro-content">
    		<div class="row">
 
-   			<div class="col-twelve">
+   			<div class="col-twelve" style=" margin-top: 70px;">
 
 	   			<h5>Hi</h5>
 	   			<h1>I'm  Heidi Younis.</h1>
@@ -130,8 +130,8 @@
 	<div class="row section-intro">
 	   <div class="col-twelve">
 
-		   <h5>Resume</h5>
-		   <h1>More of my credentials.</h1>
+		   <!-- <h5>Resume</h5> -->
+		   <!-- <h1>More of my credentials.</h1> -->
 
 		   <!-- <p class="lead">Lorem ipsum Do commodo in proident enim in dolor cupidatat adipisicing dolore officia nisi aliqua incididunt Ut veniam lorem ipsum Consectetur ut in in eu do.</p> -->
 
@@ -773,8 +773,8 @@
 		<div class="row section-intro">
    		<div class="col-twelve">
 
-   			<h5>Services</h5>
-   			<h1>What Can I Do For You?</h1>
+   			<!-- <h5>Services</h5> -->
+   			<!-- <h1>What Can I Do For You?</h1> -->
 
    			<!-- <p class="lead">Lorem ipsum Do commodo in proident enim in dolor cupidatat adipisicing dolore officia nisi aliqua incididunt Ut veniam lorem ipsum Consectetur ut in in eu do.</p> -->
 
@@ -787,7 +787,8 @@
 
 	      	<div class="service">	
 
-	      		<span class="icon"><i class="icon-earth"></i></span>            
+	      		<!-- <span class="icon"><i class="icon-earth"></i></span>             -->
+				  <i class="fa fa-lightbulb-o" style="color: #FF0077; font-size: 5.4rem;"  aria-hidden="true"></i>
 
 	            <div class="service-content">	
 
@@ -808,7 +809,8 @@
 
 				<div class="service">	
 
-					<span class="icon"><i class="icon-window"></i></span>                          
+					<!-- <span class="icon"><i class="icon-window"></i></span>                           -->
+					<i class="fa fa-globe" style="color: #FF0077; font-size: 5.4rem;" aria-hidden="true"></i>
 
 	            <div class="service-content">	
 
@@ -828,7 +830,9 @@
 
 			   <div class="service">
 
-			   	<span class="icon"><i class="icon-paint-brush"></i></span>		            
+			   	<!-- <span class="icon"><i class="icon-paint-brush"></i></span>		             -->
+				   <!-- <span name="fa fa-coffee" style="color: FF0077;"></span> -->
+				   <i class="fa fa-coffee" style="color: #FF0077; font-size: 5.4rem;" aria-hidden="true"></i>
 
 	            <div class="service-content">
 
