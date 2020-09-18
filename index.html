@@ -7,9 +7,9 @@
    <!--- basic page needs
    ================================================== -->
    <meta charset="utf-8">
-	<title>Kards</title>
-	<meta name="description" content="">  
-	<meta name="author" content="">
+	<title>Heidi Younis</title>
+	<meta name="description" content="Heidi Younis">  
+	<meta name="author" content="Heidi Younis">
 
    <!-- mobile specific metas
    ================================================== -->
@@ -602,7 +602,7 @@
    		</div>   		
    	</div> -->
 
-   <!-- </section> -->
+   </section>
     <!-- /process-->    
 
 
@@ -863,7 +863,7 @@
 
 	<!-- CTA Section
    ================================================== -->
-	<section id="cta" class="grey-section">
+	<!-- <section id="cta" class="grey-section">
 
    	<div class="row cta-content">
 
@@ -880,17 +880,17 @@
 								<li> Business English - Change Business Center </li>
 									<li> Excel Course - The Information Systems Institute</li>
 										<li> Photoshop Course - Spaces Center</li>
-			  </ul>
+			  </ul> -->
 
 					<!-- <div class="action">
 					<a class="button button-primary large" href="http://www.dreamhost.com/r.cgi?287326|STYLESHOUT">Sign Up Now</a>
 				</div>		     	 -->
 
-   		</div>
+   		<!-- </div> -->
 
-   	</div> <!-- /cta-content -->
+   	<!-- </div> /cta-content -->
 
-   </section> <!-- /cta --> 
+   <!-- </section> /cta  -->
 
 	
 	<!-- services Section
