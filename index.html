@@ -158,7 +158,7 @@
 
 				   <div class="timeline-header">
 					   <h3>Creative Director</h3>
-					   <p> November 2019 -Present</p>
+					   <p> November 2019-Present</p>
 				   </div>
 
 				   <div class="timeline-content">
@@ -175,14 +175,14 @@
 				</div>
 
 				<div class="timeline-header">
-					<h5>Marketing&Creative Director</h5>
-					<p> January 2016 - November 2019</p>
+					<h3>Marketing&Creative Director</h3>
+					<p> January 2016-November 2019</p>
 				</div>
 
 				<div class="timeline-content">
 					<h4>Blue Sky Events</h4>
-					<p></p>
-					<!-- <p>Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor incididunt amet est occaecat nisi incididunt.</p> -->
+					<p style="color: #ebebeb;">Blue Sky Events</p>
+					<!-- <p>nt.</p> -->
 				</div>
 
 			</div> <!-- /timeline-block -->
@@ -194,12 +194,12 @@
 				   </div>
 
 				   <div class="timeline-header">
-					   <h5>Marketing Account Manager&Copywriter</h5>
-					   <p>July 2015 -January 2016</p>
+					   <h3>Marketing Account Manager&Copywriter</h3>
+					   <p>July 2015-January 2016</p>
 				   </div>
 
 				   <div class="timeline-content">
-					   <h4>(Mooga Advertising Agency) - (Tiba Egypt Real Estate) - (Eldayra Production)</h4>
+					   <h4>(Mooga Advertising Agency)-(Tiba Egypt Real Estate)-(Eldayra Production)</h4>
 					<p> freelancing</p>
 					   <!-- <p>Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor incididunt amet est occaecat nisi incididunt.</p> -->
 				   </div>
@@ -213,13 +213,13 @@
 				   </div>
 
 				   <div class="timeline-header">
-					   <h6>Marketing Account Executive&Creative Content Creator</h6>
-					   <p>July 2015 - August 2015</p>
+					   <h3 style="font-size: 1.8rem;">Marketing Account Executive&Creative Content Creator</h3>
+					   <p>July 2015-August 2015</p>
 				   </div>
 
 				   <div class="timeline-content">
 					   <h4>Getsircles Advertising Agency</h4>
-					   <p></p>
+					   <p style="color: #ebebeb;">Getsircles Advertising Agency</p>
 					   <!-- <p>Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor incididunt amet est occaecat nisi incididunt.</p> -->
 				   </div>
 
@@ -234,40 +234,23 @@
 				</div>
 
 				<div class="timeline-header">
-					<h5>Senior Marketing Executive&Creative Content Creator</h5>
-					<p>June 2014 - July 2015</p>
+					<h3 style="font-size: 1.8rem;">Senior Marketing Executive&Creative Content Creator</h3>
+					<p>June 2014-July 2015</p>
 				</div>
 
 				<div class="timeline-content">
 					<h4>Marketeers Advertising Agency</h4>
-					<!-- <p></p> -->
+					<p style="color: #ebebeb;">Marketeers Advertising Agency</p>
+
 					<!-- <p>Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor incididunt amet est occaecat nisi incididunt.</p> -->
 				</div>
 
 			</div> <!-- /timeline-block -->
 
 
-		</div> <!-- /timeline-block -->
+		
 
-		<div class="timeline-block">
-
-			<div class="timeline-ico">
-				<i class="fa fa-graduation-cap"></i>
-			</div>
-
-			<div class="timeline-header">
-				<h5>Marketing Account Executive&Creative Content Creator</h5>
-				<p>July 2015 - August 2015</p>
-			</div>
-
-			<div class="timeline-content">
-				<h4>Getsircles Advertising Agency</h4>
-				<p></p>
-				<!-- <p>Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor incididunt amet est occaecat nisi incididunt.</p> -->
-			</div>
-
-		</div> <!-- /timeline-block -->
-
+		
 
 
 		<div class="timeline-block">
@@ -277,13 +260,14 @@
 		 </div>
 
 		 <div class="timeline-header">
-			 <h4>Media Planner&Social Media Specialist</h4>
-			 <p>December 2012 - June 2014</p>
+			 <h3>Media Planner&Social Media Specialist</h3>
+			 <p>December 2012-June 2014</p>
 		 </div>
 
 		 <div class="timeline-content">
 			 <h4>Ekhtarnalk&Marketeers Advertising Agency</h4>
-			 <p></p>
+			 <p style="color: #ebebeb;">Ekhtarnalk&Marketeers Advertising Agency</p>
+
 			 <!-- <p>Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor incididunt amet est occaecat nisi incididunt.</p> -->
 		 </div>
 
@@ -388,7 +372,152 @@
 	   </div> <!-- /col-twelve -->
 	   
    </div> <!-- /resume-timeline -->
-	
+	<!-- course attneded -->
+
+	<div class="row resume-timeline">
+
+		<div class="col-twelve resume-header">
+ 
+			<h2>Courses Attended</h2>
+ 
+		</div> <!-- /resume-header -->
+ 
+		<div class="col-twelve">
+ 
+			<div class="timeline-wrap">
+ 
+				<div class="timeline-block">
+ 
+					<div class="timeline-ico">
+						<i class="fa fa-briefcase"></i>
+					</div>
+ 
+					<div class="timeline-header">
+						<h4 style="font-size: 1.8rem;">A professional Diploma in Emarketing</h4>
+						<p style="color: #ebebeb;">Class: 2011-2012</p>
+					</div>
+ 
+					<div class="timeline-content">
+						<h4 >The E-marketing School </h4>
+						<p style="color: #ebebeb;"> at Ain Shams University</p>
+					</div>
+ 
+				</div> <!-- /timeline-block -->
+ 
+				<div class="timeline-block">
+ 
+					<div class="timeline-ico">
+						<i class="fa fa-briefcase"></i>
+					</div>
+ 
+					<div class="timeline-header">
+						<h3 style="font-size: 1.8rem;"> Advanced Course in Digital Marketing - DM Arts</h3>
+						<p style="color: #ebebeb;">2011</p>
+					</div>
+ 
+					<div class="timeline-content">
+						<h4 style="color: #ebebeb;">El-Orman language School</h4>
+						<p style="color: #ebebeb;">Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor incididunt amet est occaecat nisi incididunt.</p>
+					</div>
+ 
+				</div> <!-- /timeline-block -->
+ 
+				<div class="timeline-block">
+ 
+					<div class="timeline-ico">
+						<i class="fa fa-briefcase"></i>
+					</div>
+ 
+					<div class="timeline-header">
+						<h3 style="font-size: 1.8rem;"> A Diploma in Human Resources Management</h3>
+						<p style="color: #ebebeb;">May 2013 - June 2014</p>
+					</div>
+ 
+					<div class="timeline-content">
+						<h4>NGC Academy</h4>
+						<p style="color: #ebebeb;">Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor incididunt amet est occaecat nisi incididunt.</p>
+					</div>
+ 
+				</div><!--  /timeline-block -->
+ 
+				<div class="timeline-block">
+ 
+					<div class="timeline-ico">
+						<i class="fa fa-briefcase"></i>
+					</div>
+ 
+					<div class="timeline-header">
+						<h3 style="font-size: 1.8rem;"> Human Development Course </h3>
+						<p style="color: #ebebeb;"> May 2013 - June 2014</p>
+					</div>
+ 
+					<div class="timeline-content">
+						<h4 >Ain Shams University</h4>
+						<p style="color: #ebebeb;">Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor incididunt amet est occaecat nisi incididunt.</p>
+					</div>
+ 
+				</div><!--  /timeline-block -->
+				<div class="timeline-block">
+ 
+					<div class="timeline-ico">
+						<i class="fa fa-briefcase"></i>
+					</div>
+ 
+					<div class="timeline-header">
+						<h3 style="font-size: 1.8rem;"> Business English - Change Business Center</h3>
+						<p style="color: #ebebeb;">May 2013 - June 2014</p>
+					</div>
+ 
+					<div class="timeline-content">
+						<h4 style="color: #ebebeb;">Design College</h4>
+						<p style="color: #ebebeb;"> Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor incididunt amet est occaecat nisi incididunt.</p>
+					</div>
+ 
+			</div><!--  /timeline-block -->
+
+			<div class="timeline-block">
+ 
+				<div class="timeline-ico">
+					<i class="fa fa-briefcase"></i>
+				</div>
+
+				<div class="timeline-header">
+					<h3 style="font-size: 1.8rem;">Excel Course</h3>
+					<p>May 2013 - June 2014</p>
+				</div>
+
+				<div class="timeline-content">
+					<h4>The Information Systems Institute</h4>
+					<p style="color: #ebebeb;">Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor incididunt amet est occaecat nisi incididunt.</p>
+				</div>
+
+		</div><!--  /timeline-block -->
+
+		<div class="timeline-block">
+ 
+			<div class="timeline-ico">
+				<i class="fa fa-briefcase"></i>
+			</div>
+
+			<div class="timeline-header">
+				<h3 style="font-size: 1.8rem;">Photoshop Course - Spaces Center</h3>
+				<p style="color: #ebebeb;">May 2013 - June 2014</p>
+			</div>
+
+			<div class="timeline-content">
+				<h4 style="color: #ebebeb;">Design College</h4>
+				<p style="color: #ebebeb;">Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor incididunt amet est occaecat nisi incididunt.</p>
+			</div>
+
+	</div><!--  /timeline-block -->
+
+			</div> <!-- /timeline-wrap -->   			
+ 
+		</div> <!-- /col-twelve -->
+		
+	</div> <!-- /resume-timeline -->
+	 
+	<!-- end course  -->
 </section> <!-- /features -->
 
    	<!-- <div class="row about-content">
