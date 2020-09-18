@@ -73,15 +73,15 @@
 
    			<div class="col-twelve">
 
-	   			<!-- <h5>Hello, World.</h5> -->
+	   			<h5>Hi</h5>
 	   			<h1>I'm  Heidi Younis.</h1>
 
 	   			<p class="intro-position">
-	   				<span>Marketing Account Manager</span>
+	   				<!-- <span>Marketing Account Manager</span> -->
 	   				<span>Creative Content Creator</span> 
 	   			</p>
 
-	   			<a class="button stroke smoothscroll" href="#about" title="">More About Me</a>
+	   			<!-- <a class="button stroke smoothscroll" href="#about" title="">More About Me</a> -->
 
 	   		</div>  
    			
@@ -111,7 +111,7 @@
 
    			<div class="intro-info">
 
-   				<img src="images/profile-pic.jpg" alt="Profile Picture">
+   				<!-- <img src="images/profile-pic.jpg" alt="Profile Picture"> -->
 
    				<p class="lead"> 
 					I'm a Marketeer!	
@@ -122,15 +122,283 @@
 
    		</div>   		
    	</div> <!-- /section-intro -->
+<!-- hena -->
+ <!-- resume Section
+   ================================================== -->
+   <section id="resume" class="grey-section">
 
-   	<div class="row about-content">
+	<div class="row section-intro">
+	   <div class="col-twelve">
+
+		   <h5>Resume</h5>
+		   <h1>More of my credentials.</h1>
+
+		   <!-- <p class="lead">Lorem ipsum Do commodo in proident enim in dolor cupidatat adipisicing dolore officia nisi aliqua incididunt Ut veniam lorem ipsum Consectetur ut in in eu do.</p> -->
+
+	   </div>   		
+   </div> <!-- /section-intro--> 
+
+   <div class="row resume-timeline">
+
+	   <div class="col-twelve resume-header">
+
+		   <h2>Work Experience</h2>
+
+	   </div> <!-- /resume-header -->
+
+	   <div class="col-twelve">
+
+		   <div class="timeline-wrap">
+
+			   <div class="timeline-block">
+
+				   <div class="timeline-ico">
+					   <i class="fa fa-graduation-cap"></i>
+				   </div>
+
+				   <div class="timeline-header">
+					   <h3>Creative Director</h3>
+					   <p> November 2019 -Present</p>
+				   </div>
+
+				   <div class="timeline-content">
+					   <h4>Innovato</h4>
+					   <p></p>
+					   <!-- <p>Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor incididunt amet est occaecat nisi.</p> -->
+				   </div>
+
+			   </div> <!-- /timeline-block -->
+			   <div class="timeline-block">
+
+				<div class="timeline-ico">
+					<i class="fa fa-graduation-cap"></i>
+				</div>
+
+				<div class="timeline-header">
+					<h5>Marketing&Creative Director</h5>
+					<p> January 2016 - November 2019</p>
+				</div>
+
+				<div class="timeline-content">
+					<h4>Blue Sky Events</h4>
+					<p></p>
+					<!-- <p>Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor incididunt amet est occaecat nisi incididunt.</p> -->
+				</div>
+
+			</div> <!-- /timeline-block -->
+
+			   <div class="timeline-block">
+
+				   <div class="timeline-ico">
+					   <i class="fa fa-graduation-cap"></i>
+				   </div>
+
+				   <div class="timeline-header">
+					   <h5>Marketing Account Manager&Copywriter</h5>
+					   <p>July 2015 -January 2016</p>
+				   </div>
+
+				   <div class="timeline-content">
+					   <h4>(Mooga Advertising Agency) - (Tiba Egypt Real Estate) - (Eldayra Production)</h4>
+					<p> freelancing</p>
+					   <!-- <p>Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor incididunt amet est occaecat nisi incididunt.</p> -->
+				   </div>
+
+			   </div> <!-- /timeline-block -->
+
+			   <div class="timeline-block">
+
+				   <div class="timeline-ico">
+					   <i class="fa fa-graduation-cap"></i>
+				   </div>
+
+				   <div class="timeline-header">
+					   <h6>Marketing Account Executive&Creative Content Creator</h6>
+					   <p>July 2015 - August 2015</p>
+				   </div>
+
+				   <div class="timeline-content">
+					   <h4>Getsircles Advertising Agency</h4>
+					   <p></p>
+					   <!-- <p>Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor incididunt amet est occaecat nisi incididunt.</p> -->
+				   </div>
+
+			   </div> <!-- /timeline-block -->
+
+
+
+			   <div class="timeline-block">
+
+				<div class="timeline-ico">
+					<i class="fa fa-graduation-cap"></i>
+				</div>
+
+				<div class="timeline-header">
+					<h5>Senior Marketing Executive&Creative Content Creator</h5>
+					<p>June 2014 - July 2015</p>
+				</div>
+
+				<div class="timeline-content">
+					<h4>Marketeers Advertising Agency</h4>
+					<!-- <p></p> -->
+					<!-- <p>Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor incididunt amet est occaecat nisi incididunt.</p> -->
+				</div>
+
+			</div> <!-- /timeline-block -->
+
+
+		</div> <!-- /timeline-block -->
+
+		<div class="timeline-block">
+
+			<div class="timeline-ico">
+				<i class="fa fa-graduation-cap"></i>
+			</div>
+
+			<div class="timeline-header">
+				<h5>Marketing Account Executive&Creative Content Creator</h5>
+				<p>July 2015 - August 2015</p>
+			</div>
+
+			<div class="timeline-content">
+				<h4>Getsircles Advertising Agency</h4>
+				<p></p>
+				<!-- <p>Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor incididunt amet est occaecat nisi incididunt.</p> -->
+			</div>
+
+		</div> <!-- /timeline-block -->
+
+
+
+		<div class="timeline-block">
+
+		 <div class="timeline-ico">
+			 <i class="fa fa-graduation-cap"></i>
+		 </div>
+
+		 <div class="timeline-header">
+			 <h4>Media Planner&Social Media Specialist</h4>
+			 <p>December 2012 - June 2014</p>
+		 </div>
+
+		 <div class="timeline-content">
+			 <h4>Ekhtarnalk&Marketeers Advertising Agency</h4>
+			 <p></p>
+			 <!-- <p>Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor incididunt amet est occaecat nisi incididunt.</p> -->
+		 </div>
+
+	 </div> <!-- /timeline-block -->
+
+
+	 
+	 <div class="timeline-block">
+
+		<div class="timeline-ico">
+			<i class="fa fa-graduation-cap"></i>
+		</div>
+
+		<div class="timeline-header">
+			<h4>English Instructor</h4>
+			<p>June 2012 - December 2012</p>
+		</div>
+
+		<div class="timeline-content">
+			<h4>Harvard Language College</h4>
+			<p></p>
+			<!-- <p>Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor incididunt amet est occaecat nisi incididunt.</p> -->
+		</div>
+
+	</div> <!-- /timeline-block -->
+
+
+		   </div> <!-- /timeline-wrap -->   			
+
+	   </div> <!-- /col-twelve -->
+	   
+   </div> <!-- /resume-timeline -->
+   
+   <div class="row resume-timeline">
+
+	   <div class="col-twelve resume-header">
+
+		   <h2>Education</h2>
+
+	   </div> <!-- /resume-header -->
+
+	   <div class="col-twelve">
+
+		   <div class="timeline-wrap">
+
+			   <div class="timeline-block">
+
+				   <div class="timeline-ico">
+					   <i class="fa fa-briefcase"></i>
+				   </div>
+
+				   <div class="timeline-header">
+					   <h4>Faculty of Education</h4>
+					   <p>Class: 2011-2012</p>
+				   </div>
+
+				   <div class="timeline-content">
+					   <h4>English Department(General Education) at Ain Shams University</h4>
+					   <p> Grade: Good.</p>
+				   </div>
+
+			   </div> <!-- /timeline-block -->
+
+			   <div class="timeline-block">
+
+				   <div class="timeline-ico">
+					   <i class="fa fa-briefcase"></i>
+				   </div>
+
+				   <div class="timeline-header">
+					   <h3> school</h3>
+					   <p>2011</p>
+				   </div>
+
+				   <div class="timeline-content">
+					   <h4>El-Orman language School</h4>
+					   <!-- <p>Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor incididunt amet est occaecat nisi incididunt.</p> -->
+				   </div>
+
+			   </div> <!-- /timeline-block -->
+
+			   <!-- <div class="timeline-block">
+
+				   <div class="timeline-ico">
+					   <i class="fa fa-briefcase"></i>
+				   </div>
+
+				   <div class="timeline-header">
+					   <h3>Bachelor Degree</h3>
+					   <p>May 2013 - June 2014</p>
+				   </div>
+
+				   <div class="timeline-content">
+					   <h4>Design College</h4>
+					   <p>Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor incididunt amet est occaecat nisi incididunt.</p>
+				   </div> -->
+
+			   <!-- </div> /timeline-block -->
+
+		   </div> <!-- /timeline-wrap -->   			
+
+	   </div> <!-- /col-twelve -->
+	   
+   </div> <!-- /resume-timeline -->
+	
+</section> <!-- /features -->
+
+   	<!-- <div class="row about-content">
 
    		<div class="col-six tab-full">
 
    			<h3>Work Activities & Duties</h3>
-   			<!-- <p>Lorem ipsum Qui veniam ut consequat ex ullamco nulla in non ut esse in magna sint minim officia consectetur nisi commodo ea magna pariatur nisi cillum.</p> -->
+   			 <p>Lorem ipsum Qui veniam ut consequat ex ullamco nulla in non ut esse in magna sint minim officia consectetur nisi commodo ea magna pariatur nisi cillum.</p> -->
 
-   			<ul class="info-list">
+   			<!-- <ul class="info-list">
    				
 					<li> Working with the client and the account team to understand the client's business objectives and advertising strategies.</li>
 					<li> Making competitor analysis and then use that information to improve efforts within the company.</li>
@@ -159,323 +427,57 @@
 					
    				</li>
 
-   			</ul> <!-- /info-list -->
+   			</ul> info-list -->
 
-   		</div>
+   		<!-- </div> -->
 
-   		<div class="col-six tab-full">
+   		<!-- <div class="col-six tab-full"> -->
 
-   			<h3>Skills</h3>
+   			<!-- <h3>Skills</h3> -->
    			<!-- <p>Lorem ipsum Qui veniam ut consequat ex ullamco nulla in non ut esse in magna sint minim officia consectetur nisi commodo ea magna pariatur nisi cillum.</p> -->
 		
 				<!-- <ul class="skill-bars"> -->
-				<ul> 
-				   <li>
+				<!-- <ul> 
+				   <li> -->
 				   	<!-- <div class="progress percent90"><span>90%</span></div> -->
-				   	<strong>Leadership skills</strong>
+				   	<!-- <strong>Leadership skills</strong>
 				   </li>
-				   <li>
+				   <li> -->
 				   	<!-- <div class="progress percent85"><span>85%</span></div> -->
-				   	<strong>Event planning</strong>
+				   	<!-- <strong>Event planning</strong>
 				   </li>
-				   <li>
+				   <li> -->
 				   	<!-- <div class="progress percent70"><span>70%</span></div> -->
-				   	<strong>Excellent writing skills </strong>
+				   	<!-- <strong>Excellent writing skills </strong>
 				   </li>
-				   <li>
+				   <li> -->
 				   	<!-- <div class="progress percent95"><span>95%</span></div> -->
-				   	<strong>Communication skills</strong>
+				   	<!-- <strong>Communication skills</strong>
 				   </li>
-				   <li>
+				   <li> -->
 
 				   	<!-- <div class="progress percent75"><span>75%</span></div> -->
-				   	<strong>Self directed and highly organized</strong>
-				   </li>
+				   	<!-- <strong>Self directed and highly organized</strong>
+				   </li> -->
       
-				</ul> <!-- /skill-bars -->		
+				<!-- </ul> /skill-bars		 -->
 
-   		</div>
+   		<!-- </div> -->
 
-   	</div>
+   	<!-- </div> --> 
 
-   	<div class="row button-section">
+   	<!-- <div class="row button-section">
    		<div class="col-twelve">
    			<a href="#contact" title="Hire Me" class="button stroke smoothscroll">Hire Me</a>
    			<a href="#" title="Download CV" class="button button-primary">Download CV</a>
    		</div>   		
-   	</div>
+   	</div> -->
 
-   </section> <!-- /process-->    
+   <!-- </section> -->
+    <!-- /process-->    
 
 
-   <!-- resume Section
-   ================================================== -->
-	<section id="resume" class="grey-section">
-
-		<div class="row section-intro">
-   		<div class="col-twelve">
-
-   			<h5>Resume</h5>
-   			<h1>More of my credentials.</h1>
-
-   			<!-- <p class="lead">Lorem ipsum Do commodo in proident enim in dolor cupidatat adipisicing dolore officia nisi aliqua incididunt Ut veniam lorem ipsum Consectetur ut in in eu do.</p> -->
-
-   		</div>   		
-   	</div> <!-- /section-intro--> 
-
-   	<div class="row resume-timeline">
-
-   		<div class="col-twelve resume-header">
-
-   			<h2>Work Experience</h2>
-
-   		</div> <!-- /resume-header -->
-
-   		<div class="col-twelve">
-
-   			<div class="timeline-wrap">
-
-   				<div class="timeline-block">
-
-	   				<div class="timeline-ico">
-	   					<i class="fa fa-graduation-cap"></i>
-	   				</div>
-
-	   				<div class="timeline-header">
-	   					<h3>Creative Director</h3>
-	   					<p> November 2019 -Present</p>
-	   				</div>
-
-	   				<div class="timeline-content">
-						   <h4>Innovato</h4>
-						   <p></p>
-	   					<!-- <p>Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor incididunt amet est occaecat nisi.</p> -->
-	   				</div>
-
-	   			</div> <!-- /timeline-block -->
-				   <div class="timeline-block">
-
-					<div class="timeline-ico">
-						<i class="fa fa-graduation-cap"></i>
-					</div>
-	
-					<div class="timeline-header">
-						<h5>Marketing&Creative Director</h5>
-						<p> January 2016 - November 2019</p>
-					</div>
-	
-					<div class="timeline-content">
-						<h4>Blue Sky Events</h4>
-						<p></p>
-						<!-- <p>Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor incididunt amet est occaecat nisi incididunt.</p> -->
-					</div>
-	
-				</div> <!-- /timeline-block -->
-	
-	   			<div class="timeline-block">
-
-	   				<div class="timeline-ico">
-	   					<i class="fa fa-graduation-cap"></i>
-	   				</div>
-
-	   				<div class="timeline-header">
-	   					<h5>Marketing Account Manager&Copywriter</h5>
-	   					<p>July 2015 -January 2016</p>
-	   				</div>
-
-	   				<div class="timeline-content">
-	   					<h4>(Mooga Advertising Agency) - (Tiba Egypt Real Estate) - (Eldayra Production)</h4>
-						<p> freelancing</p>
-	   					<!-- <p>Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor incididunt amet est occaecat nisi incididunt.</p> -->
-	   				</div>
-
-	   			</div> <!-- /timeline-block -->
-
-	   			<div class="timeline-block">
-
-	   				<div class="timeline-ico">
-	   					<i class="fa fa-graduation-cap"></i>
-	   				</div>
-
-	   				<div class="timeline-header">
-	   					<h6>Marketing Account Executive&Creative Content Creator</h6>
-	   					<p>July 2015 - August 2015</p>
-	   				</div>
-
-	   				<div class="timeline-content">
-						   <h4>Getsircles Advertising Agency</h4>
-						   <p></p>
-	   					<!-- <p>Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor incididunt amet est occaecat nisi incididunt.</p> -->
-	   				</div>
-
-	   			</div> <!-- /timeline-block -->
-
-
-
-				   <div class="timeline-block">
-
-					<div class="timeline-ico">
-						<i class="fa fa-graduation-cap"></i>
-					</div>
-
-					<div class="timeline-header">
-						<h5>Senior Marketing Executive&Creative Content Creator</h5>
-						<p>June 2014 - July 2015</p>
-					</div>
-
-					<div class="timeline-content">
-						<h4>Marketeers Advertising Agency</h4>
-						<!-- <p></p> -->
-						<!-- <p>Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor incididunt amet est occaecat nisi incididunt.</p> -->
-					</div>
-
-				</div> <!-- /timeline-block -->
-
-
-			</div> <!-- /timeline-block -->
-
-			<div class="timeline-block">
-
-				<div class="timeline-ico">
-					<i class="fa fa-graduation-cap"></i>
-				</div>
-
-				<div class="timeline-header">
-					<h5>Marketing Account Executive&Creative Content Creator</h5>
-					<p>July 2015 - August 2015</p>
-				</div>
-
-				<div class="timeline-content">
-					<h4>Getsircles Advertising Agency</h4>
-					<p></p>
-					<!-- <p>Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor incididunt amet est occaecat nisi incididunt.</p> -->
-				</div>
-
-			</div> <!-- /timeline-block -->
-
-
-
-			<div class="timeline-block">
-
-			 <div class="timeline-ico">
-				 <i class="fa fa-graduation-cap"></i>
-			 </div>
-
-			 <div class="timeline-header">
-				 <h4>Media Planner&Social Media Specialist</h4>
-				 <p>December 2012 - June 2014</p>
-			 </div>
-
-			 <div class="timeline-content">
-				 <h4>Ekhtarnalk&Marketeers Advertising Agency</h4>
-				 <p></p>
-				 <!-- <p>Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor incididunt amet est occaecat nisi incididunt.</p> -->
-			 </div>
-
-		 </div> <!-- /timeline-block -->
-
-
-		 
-		 <div class="timeline-block">
-
-			<div class="timeline-ico">
-				<i class="fa fa-graduation-cap"></i>
-			</div>
-
-			<div class="timeline-header">
-				<h4>English Instructor</h4>
-				<p>June 2012 - December 2012</p>
-			</div>
-
-			<div class="timeline-content">
-				<h4>Harvard Language College</h4>
-				<p></p>
-				<!-- <p>Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor incididunt amet est occaecat nisi incididunt.</p> -->
-			</div>
-
-		</div> <!-- /timeline-block -->
-
-
-   			</div> <!-- /timeline-wrap -->   			
-
-   		</div> <!-- /col-twelve -->
-   		
-   	</div> <!-- /resume-timeline -->
-   	
-   	<div class="row resume-timeline">
-
-   		<div class="col-twelve resume-header">
-
-   			<h2>Education</h2>
-
-   		</div> <!-- /resume-header -->
-
-   		<div class="col-twelve">
-
-   			<div class="timeline-wrap">
-
-   				<div class="timeline-block">
-
-	   				<div class="timeline-ico">
-	   					<i class="fa fa-briefcase"></i>
-	   				</div>
-
-	   				<div class="timeline-header">
-	   					<h4>Faculty of Education</h4>
-	   					<p>Class: 2011-2012</p>
-	   				</div>
-
-	   				<div class="timeline-content">
-	   					<h4>English Department(General Education) at Ain Shams University</h4>
-	   					<p> Grade: Good.</p>
-	   				</div>
-
-	   			</div> <!-- /timeline-block -->
-
-	   			<div class="timeline-block">
-
-	   				<div class="timeline-ico">
-	   					<i class="fa fa-briefcase"></i>
-	   				</div>
-
-	   				<div class="timeline-header">
-	   					<h3> school</h3>
-	   					<p>2011</p>
-	   				</div>
-
-	   				<div class="timeline-content">
-	   					<h4>El-Orman language School</h4>
-	   					<!-- <p>Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor incididunt amet est occaecat nisi incididunt.</p> -->
-	   				</div>
-
-	   			</div> <!-- /timeline-block -->
-
-	   			<!-- <div class="timeline-block">
-
-	   				<div class="timeline-ico">
-	   					<i class="fa fa-briefcase"></i>
-	   				</div>
-
-	   				<div class="timeline-header">
-	   					<h3>Bachelor Degree</h3>
-	   					<p>May 2013 - June 2014</p>
-	   				</div>
-
-	   				<div class="timeline-content">
-	   					<h4>Design College</h4>
-	   					<p>Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor incididunt amet est occaecat nisi incididunt.</p>
-	   				</div> -->
-
-	   			<!-- </div> /timeline-block -->
-
-   			</div> <!-- /timeline-wrap -->   			
-
-   		</div> <!-- /col-twelve -->
-   		
-   	</div> <!-- /resume-timeline -->
-		
-	</section> <!-- /features -->
-
+  
 
 	<!-- Portfolio Section
    ================================================== -->
@@ -774,7 +776,7 @@
    			<h5>Services</h5>
    			<h1>What Can I Do For You?</h1>
 
-   			<p class="lead">Lorem ipsum Do commodo in proident enim in dolor cupidatat adipisicing dolore officia nisi aliqua incididunt Ut veniam lorem ipsum Consectetur ut in in eu do.</p>
+   			<!-- <p class="lead">Lorem ipsum Do commodo in proident enim in dolor cupidatat adipisicing dolore officia nisi aliqua incididunt Ut veniam lorem ipsum Consectetur ut in in eu do.</p> -->
 
    		</div>   		
    	</div> <!-- /section-intro -->
@@ -789,10 +791,16 @@
 
 	            <div class="service-content">	
 
-	            	 <h3>Webdesign</h3>
+	            	 <h3>Skills</h3>
 
-		            <p class="desc">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.
-	         		</p>
+					 <ul style="list-style-type: none;"> 
+						<li>Leadership skills</li>
+						<li>Event planning</li>
+						<li>Excellent writing skills</li>
+						<li>Communication skills</li>
+						<li>Self directed and highly organized</li>
+		   
+					 </ul> <!-- /skill-bars -->
 	         		
 	         	</div> 	         	 
 
@@ -804,11 +812,16 @@
 
 	            <div class="service-content">	
 
-	            	<h3>Web Development</h3>  
+	            	<h3>Languages</h3>  
 
-		            <p class="desc">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.
-	         		</p>
-
+		            <!-- <p class="desc">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit. -->
+	         		<!-- </p> -->
+					<ul style="list-style-type: none;">
+						<li>Arabic: mother tongue</li>
+						<li>English: fluent spoken and written</li>
+						<li>German: fair knowledge</li>
+						<li>French: fair knowledge</li>
+					</ul>
 	            </div>	                          
 
 			   </div> <!-- /service -->
@@ -819,16 +832,28 @@
 
 	            <div class="service-content">
 
-	            	<h3>Branding</h3>
+	            	<h3>Hobbies</h3>
 
-		            <p class="desc">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.
-	        			</p> 
+		            <!-- <p class="desc">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.
+	        			</p>  -->
+
+					<ul style="list-style-type: none;">
+						<li>Writing</li>
+						<li>Playing Violin</li>
+						<li>Listening to music</li>
+						<li>Reading</li>
+						<li>Travelling</li>
+						<li>Watching movies</li>
+						<li>Web surfing</li>
+						<li>Book collecting</li>
+					</ul>
+
 
 	            </div> 	            	               
 
 			   </div> <!-- /service -->
 
-				<div class="service">
+				<!-- <div class="service">
 
 					<span class="icon"><i class="icon-toggles"></i></span>	              
 
@@ -841,7 +866,7 @@
 	         		
 	            </div>                
 
-				</div> <!-- /service -->
+				</div> /service
 
 			   <div class="service">
 
@@ -856,7 +881,7 @@
 
 	            </div>	               
 
-			   </div> <!-- /service -->
+			   </div> /service
 
 			   <div class="service">
 
@@ -871,7 +896,7 @@
 	        			
 	            </div>	               
 
-			   </div> <!-- /service -->
+			   </div> /service -->
 
 	      </div> <!-- /services-list -->
    		
