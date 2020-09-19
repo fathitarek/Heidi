@@ -19,139 +19,16 @@
    ================================================== -->
    <link rel="stylesheet" href="css/base.css">  
    <link rel="stylesheet" href="css/main.css">
-   <link rel="stylesheet" href="css/vendor.css">     
-<style>
-	.customer-logos {
-  /* background-color: #990047; */
-  background-color: white;
+   <link rel="stylesheet" href="css/vendor.css">  
+   <link rel="stylesheet" href="iview/css/iview.css" />
+	<link rel="stylesheet" href="iview/css/skin 2/style.css" /> 
 
-}
 
-/* Slider */
-.slick-slide {
-    margin: 0px 20px;
-}
+<!-- ------------------------------ -->
+<link rel="stylesheet" href="css/carouseller.css">
 
-.slick-slide img {
-    width: 100%;
-}
+<!-- ------------------------------ -->
 
-.slick-slider
-{
-    position: relative;
-    display: block;
-    box-sizing: border-box;
-
-    -webkit-user-select: none;
-       -moz-user-select: none;
-        -ms-user-select: none;
-            user-select: none;
-
-    -webkit-touch-callout: none;
-    -khtml-user-select: none;
-    -ms-touch-action: pan-y;
-        touch-action: pan-y;
-    -webkit-tap-highlight-color: transparent;
-}
-
-.slick-list
-{
-    position: relative;
-    display: block;
-    overflow: hidden;
-
-    margin: 0;
-    padding: 0;
-}
-.slick-list:focus
-{
-    outline: none;
-}
-.slick-list.dragging
-{
-    cursor: pointer;
-    cursor: hand;
-}
-
-.slick-slider .slick-track,
-.slick-slider .slick-list
-{
-    -webkit-transform: translate3d(0, 0, 0);
-       -moz-transform: translate3d(0, 0, 0);
-        -ms-transform: translate3d(0, 0, 0);
-         -o-transform: translate3d(0, 0, 0);
-            transform: translate3d(0, 0, 0);
-}
-
-.slick-track
-{
-    position: relative;
-    top: 0;
-    left: 0;
-
-    display: block;
-}
-.slick-track:before,
-.slick-track:after
-{
-    display: table;
-
-    content: '';
-}
-.slick-track:after
-{
-    clear: both;
-}
-.slick-loading .slick-track
-{
-    visibility: hidden;
-}
-
-.slick-slide
-{
-    display: none;
-    float: left;
-
-    height: 100%;
-    min-height: 1px;
-}
-[dir='rtl'] .slick-slide
-{
-    float: right;
-}
-.slick-slide img
-{
-    display: block;
-}
-.slick-slide.slick-loading img
-{
-    display: none;
-}
-.slick-slide.dragging img
-{
-    pointer-events: none;
-}
-.slick-initialized .slick-slide
-{
-    display: block;
-}
-.slick-loading .slick-slide
-{
-    visibility: hidden;
-}
-.slick-vertical .slick-slide
-{
-    display: block;
-
-    height: auto;
-
-    border: 1px solid transparent;
-}
-.slick-arrow.slick-hidden {
-    display: none;
-}
-
-</style>
    <!-- script
    ================================================== -->   
 	<script src="js/modernizr.js"></script>
@@ -177,14 +54,15 @@
 		         <a href="index.html"></a>
 		      </div>		       -->
 
-		   	<nav id="main-nav-wrap">
+		   	<nav id="main-nav-wrap" style="width: auto;">
 					<ul class="main-navigation">
 						<li class="current"><a class="smoothscroll"  href="#intro" title="">Home</a></li>
 						<li><a class="smoothscroll"  href="#about" title="">About</a></li>
-						<li><a class="smoothscroll"  href="#resume" title="">Resume</a></li>
+						<li><a class="smoothscroll"  href="#resume" title="">Work Experience</a></li>
 						<li><a class="smoothscroll"  href="#portfolio" title="">Portfolio</a></li>
-						<li><a class="smoothscroll"  href="#services" title="">Services</a></li>					
-						<li><a class="smoothscroll"  href="#contact" title="">Contact</a></li>	
+						<li><a class="smoothscroll"  href="#services" title="">Skills</a></li>	
+						<li><a class="smoothscroll"  href="#stats" title="">Clients</a></li>					
+						<li><a class="smoothscroll"  href="#contact" title="">Contact</a></li>
 						<li><a href="styles.html" title="">Style Demo</a></li>				
 					</ul>
 				</nav>    		
@@ -741,255 +619,257 @@
 
 	<!-- Portfolio Section
    ================================================== -->
-	<section id="portfolio">
+   <section id="portfolio">
 
-		<div class="row section-intro">
-   		<div class="col-twelve">
+	<div class="row section-intro">
+	   <div class="col-twelve">
 
-   			<h5>Portfolio</h5>
-   			<h1>Check Out Some of My Works.</h1>
+		   <h5>Portfolio</h5>
+		   <h1>Check Out Some of My Works.</h1>
 
-   			<p class="lead">Lorem ipsum Do commodo in proident enim in dolor cupidatat adipisicing dolore officia nisi aliqua incididunt Ut veniam lorem ipsum Consectetur ut in in eu do.</p>
+		   <p class="lead">Lorem ipsum Do commodo in proident enim in dolor cupidatat adipisicing dolore officia nisi aliqua incididunt Ut veniam lorem ipsum Consectetur ut in in eu do.</p>
 
-   		</div>   		
-   	</div> <!-- /section-intro--> 
+	   </div>   		
+   </div> <!-- /section-intro--> 
 
-   	<div class="row portfolio-content">
+   <div class="row portfolio-content">
 
-   		<div class="col-twelve">
+	   <div class="col-twelve">
 
-   			<!-- portfolio-wrapper -->
-	         <div id="folio-wrapper" class="block-1-2 block-mob-full stack">
+		   <!-- portfolio-wrapper -->
+		 <div id="folio-wrapper" class="block-1-2 block-mob-full stack">
 
-	         	<div class="bgrid folio-item">
-	               <div class="item-wrap">
-	               	<img src="images/portfolio/liberty.jpg" alt="Liberty">
-	                  <a href="#modal-01" class="overlay">	                  	           
-	                     <div class="folio-item-table">
-	                     	<div class="folio-item-cell">
-		     					       <h3 class="folio-title">Liberty</h3>	     					    
-		     					    	 <span class="folio-types">
-		     					       	  Graphic Design
-		     					       </span>
-		     					   </div>	                      	
-	                     </div>                    
-	                  </a>
-	               </div>	               
-	        		</div> <!-- /folio-item -->
+			 <div class="bgrid folio-item">
+			   <div class="item-wrap"  style="position: relative;">
+				   <img src="images/portfolio/liberty.jpg" alt="Liberty">
+				  
+				  <a href="#modal-01" class="overlay">	
+					              	           
+					 <div class="folio-item-table">
+						 <div class="folio-item-cell">
+								<h3 class="folio-title">Liberty</h3>	     					    
+								<span class="folio-types">
+									Graphic Design
+								</span>
+						</div>	                      	
+					 </div>                    
+				  </a>
+			   </div>	               
+				</div> <!-- /folio-item -->
 
-	        		<div class="bgrid folio-item">
-	               <div class="item-wrap">
-	               	<img src="images/portfolio/shutterbug.jpg" alt="Shutterbug">
-	               	<a href="#modal-02" class="overlay">              		                  
-	                     <div class="folio-item-table">
-	                     	<div class="folio-item-cell">
-	                     		<h3 class="folio-title">Shutterbug</h3>	     					    
-		     					    	<span class="folio-types">
-		     					       	  Web Design
-		     					      </span>		     		
-		     					   </div> 	                      	
-	                     </div>                    
-	                  </a>
-	               </div>
-	        		</div> <!-- /folio-item -->
+				<div class="bgrid folio-item">
+			   <div class="item-wrap">
+				   <img src="images/portfolio/shutterbug.jpg" alt="Shutterbug">
+				   <a href="#modal-02" class="overlay">              		                  
+					 <div class="folio-item-table">
+						 <div class="folio-item-cell">
+							 <h3 class="folio-title">Shutterbug</h3>	     					    
+									 <span class="folio-types">
+										  Web Design
+								   </span>		     		
+								</div> 	                      	
+					 </div>                    
+				  </a>
+			   </div>
+				</div> <!-- /folio-item -->
 
-	            <div class="bgrid folio-item">
-	               <div class="item-wrap">
-	               	<img src="images/portfolio/clouds.jpg"alt="Clouds">
-	                  <a href="#modal-03" class="overlay">             		                  
-	                     <div class="folio-item-table">
-	                     	<div class="folio-item-cell">
-	                     		<h3 class="folio-title">Clouds</h3>	     					    
-		     					    	<span class="folio-types">
-		     					       	  Web Design
-		     					      </span>		     		
-		     					   </div> 	                      	
-	                     </div>                    
-	                  </a>
-	               </div>
-	        		</div> <!-- /folio-item -->
+			<div class="bgrid folio-item">
+			   <div class="item-wrap">
+				   <img src="images/portfolio/clouds.jpg"alt="Clouds">
+				  <a href="#modal-03" class="overlay">             		                  
+					 <div class="folio-item-table">
+						 <div class="folio-item-cell">
+							 <h3 class="folio-title">Clouds</h3>	     					    
+									 <span class="folio-types">
+										  Web Design
+								   </span>		     		
+								</div> 	                      	
+					 </div>                    
+				  </a>
+			   </div>
+				</div> <!-- /folio-item -->
 
-	            <div class="bgrid folio-item">
-	               <div class="item-wrap">
-	               	<img src="images/portfolio/beetle.jpg" alt="Beetle">
-	                  <a href="#modal-04" class="overlay">                  	                 
-	                     <div class="folio-item-table">
-	                     	<div class="folio-item-cell">
-	                     		<h3 class="folio-title">Beetle</h3>	     					    
-		     					    	<span class="folio-types">
-		     					       	  Branding
-		     					      </span>		     		
-		     					   </div>  	                      	
-	                     </div>                    
-	                  </a>
-	               </div>
-	        		</div> <!-- /folio-item -->     
+			<div class="bgrid folio-item">
+			   <div class="item-wrap">
+				   <img src="images/portfolio/beetle.jpg" alt="Beetle">
+				  <a href="#modal-04" class="overlay">                  	                 
+					 <div class="folio-item-table">
+						 <div class="folio-item-cell">
+							 <h3 class="folio-title">Beetle</h3>	     					    
+									 <span class="folio-types">
+										  Branding
+								   </span>		     		
+								</div>  	                      	
+					 </div>                    
+				  </a>
+			   </div>
+				</div> <!-- /folio-item -->     
 
-	        		<div class="bgrid folio-item">
-	               <div class="item-wrap">
-	               	<img src="images/portfolio/lighthouse.jpg" alt="Lighthouse">
-	                  <a href="#modal-05" class="overlay">             		                  
-	                     <div class="folio-item-table">
-	                     	<div class="folio-item-cell">
-	                     		<h3 class="folio-title">Lighthouse</h3>	     					    
-		     					    	<span class="folio-types">
-		     					       	  Web Development
-		     					      </span>		     		
-		     					   </div> 	                      	
-	                     </div>                    
-	                  </a>
-	               </div>
-	        		</div> <!-- /folio-item -->
+				<div class="bgrid folio-item">
+			   <div class="item-wrap">
+				   <img src="images/portfolio/lighthouse.jpg" alt="Lighthouse">
+				  <a href="#modal-05" class="overlay">             		                  
+					 <div class="folio-item-table">
+						 <div class="folio-item-cell">
+							 <h3 class="folio-title">Lighthouse</h3>	     					    
+									 <span class="folio-types">
+										  Web Development
+								   </span>		     		
+								</div> 	                      	
+					 </div>                    
+				  </a>
+			   </div>
+				</div> <!-- /folio-item -->
 
-	            <div class="bgrid folio-item">
-	               <div class="item-wrap">
-	               	<img src="images/portfolio/salad.jpg" alt="Salad">
-	                  <a href="#modal-06" class="overlay">
-	                     <div class="folio-item-table">
-	                     	<div class="folio-item-cell">
-	                     		<h3 class="folio-title">Salad</h3>	     					    
-		     					    	<span class="folio-types">
-		     					       	  Branding
-		     					      </span>		     		
-		     					   </div>	                      	
-	                     </div>                    
-	                  </a>
-	               </div>
-	        		</div> <!-- /folio-item -->   
+			<div class="bgrid folio-item">
+			   <div class="item-wrap">
+				   <img src="images/portfolio/salad.jpg" alt="Salad">
+				  <a href="#modal-06" class="overlay">
+					 <div class="folio-item-table">
+						 <div class="folio-item-cell">
+							 <h3 class="folio-title">Salad</h3>	     					    
+									 <span class="folio-types">
+										  Branding
+								   </span>		     		
+								</div>	                      	
+					 </div>                    
+				  </a>
+			   </div>
+				</div> <!-- /folio-item -->   
 
-	            <!-- modal popups - begin
-	            ============================================================= -->
-	            <div id="modal-01" class="popup-modal slider mfp-hide">	
+			<!-- modal popups - begin
+			============================================================= -->
+			<div id="modal-01" class="popup-modal slider mfp-hide">	
 
-				     	<div class="media">
-				     		<img src="images/portfolio/modals/m-liberty.jpg" alt="" />
-				     	</div>      	
+					 <div class="media">
+						 <img src="images/portfolio/modals/m-liberty.jpg" alt="" />
+					 </div>      	
 
-					   <div class="description-box">
-					      <h4>Liberty</h4>		      
-					      <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
+				   <div class="description-box">
+					  <h4>Liberty</h4>		      
+					  <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
 
-					      <div class="categories">Web Development</div>			               
-					   </div>
+					  <div class="categories">Web Development</div>			               
+				   </div>
 
-			         <div class="link-box">
-			            <a href="http://www.behance.net">Details</a>
-					      <a href="#" class="popup-modal-dismiss">Close</a>
-			         </div>		      
+				 <div class="link-box">
+					<a href="http://www.behance.net">Details</a>
+					  <a href="#" class="popup-modal-dismiss">Close</a>
+				 </div>		      
 
-				   </div> <!-- /modal-01 -->
+			   </div> <!-- /modal-01 -->
 
-				   <div id="modal-02" class="popup-modal slider mfp-hide">	
+			   <div id="modal-02" class="popup-modal slider mfp-hide">	
 
-				     	<div class="media">
-				     		<img src="images/portfolio/modals/m-shutterbug.jpg" alt="" />
-				     	</div>      	
+					 <div class="media">
+						 <img src="images/portfolio/modals/m-shutterbug.jpg" alt="" />
+					 </div>      	
 
-					   <div class="description-box">
-					      <h4>Shutterbug</h4>		      
-					      <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
+				   <div class="description-box">
+					  <h4>Shutterbug</h4>		      
+					  <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
 
-					      <div class="categories">Web Design</div>			               
-					   </div>
+					  <div class="categories">Web Design</div>			               
+				   </div>
 
-			         <div class="link-box">
-			            <a href="http://www.behance.net">Details</a>
-					      <a href="#" class="popup-modal-dismiss">Close</a>
-			         </div>		      
+				 <div class="link-box">
+					<a href="http://www.behance.net">Details</a>
+					  <a href="#" class="popup-modal-dismiss">Close</a>
+				 </div>		      
 
-				   </div> <!-- /modal-02 -->
+			   </div> <!-- /modal-02 -->
 
-				   <div id="modal-03" class="popup-modal slider mfp-hide">	
+			   <div id="modal-03" class="popup-modal slider mfp-hide">	
 
-				     	<div class="media">
-				     		<img src="images/portfolio/modals/m-clouds.jpg" alt="" />
-				     	</div>      	
+					 <div class="media">
+						 <img src="images/portfolio/modals/m-clouds.jpg" alt="" />
+					 </div>      	
 
-					   <div class="description-box">
-					      <h4>Clouds</h4>		      
-					      <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
+				   <div class="description-box">
+					  <h4>Clouds</h4>		      
+					  <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
 
-					      <div class="categories">Web Design</div>			               
-					   </div>
+					  <div class="categories">Web Design</div>			               
+				   </div>
 
-			         <div class="link-box">
-			            <a href="http://www.behance.net">Details</a>
-					      <a href="#" class="popup-modal-dismiss">Close</a>
-			         </div>		      
+				 <div class="link-box">
+					<a href="http://www.behance.net">Details</a>
+					  <a href="#" class="popup-modal-dismiss">Close</a>
+				 </div>		      
 
-				   </div> <!-- /modal-03 -->
+			   </div> <!-- /modal-03 -->
 
-				   <div id="modal-04" class="popup-modal slider mfp-hide">	
+			   <div id="modal-04" class="popup-modal slider mfp-hide">	
 
-				     	<div class="media">
-				     		<img src="images/portfolio/modals/m-beetle.jpg" alt="" />
-				     	</div>      	
+					 <div class="media">
+						 <img src="images/portfolio/modals/m-beetle.jpg" alt="" />
+					 </div>      	
 
-					   <div class="description-box">
-					      <h4>Beetle</h4>		      
-					      <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
+				   <div class="description-box">
+					  <h4>Beetle</h4>		      
+					  <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
 
-					      <div class="categories">Branding</div>			               
-					   </div>
+					  <div class="categories">Branding</div>			               
+				   </div>
 
-			         <div class="link-box">
-			            <a href="http://www.behance.net">Details</a>
-					      <a href="#" class="popup-modal-dismiss">Close</a>
-			         </div>		      
+				 <div class="link-box">
+					<a href="http://www.behance.net">Details</a>
+					  <a href="#" class="popup-modal-dismiss">Close</a>
+				 </div>		      
 
-				   </div> <!-- /modal-04 -->
+			   </div> <!-- /modal-04 -->
 
-				   <div id="modal-05" class="popup-modal slider mfp-hide">	
+			   <div id="modal-05" class="popup-modal slider mfp-hide">	
 
-				     	<div class="media">
-				     		<img src="images/portfolio/modals/m-lighthouse.jpg" alt="" />
-				     	</div>      	
+					 <div class="media">
+						 <img src="images/portfolio/modals/m-lighthouse.jpg" alt="" />
+					 </div>      	
 
-					   <div class="description-box">
-					      <h4>Lighthouse</h4>		      
-					      <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
+				   <div class="description-box">
+					  <h4>Lighthouse</h4>		      
+					  <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
 
-					      <div class="categories">Web Development</div>			               
-					   </div>
+					  <div class="categories">Web Development</div>			               
+				   </div>
 
-			         <div class="link-box">
-			            <a href="http://www.behance.net">Details</a>
-					      <a href="#" class="popup-modal-dismiss">Close</a>
-			         </div>		      
+				 <div class="link-box">
+					<a href="http://www.behance.net">Details</a>
+					  <a href="#" class="popup-modal-dismiss">Close</a>
+				 </div>		      
 
-				   </div> <!-- /modal-05 -->
+			   </div> <!-- /modal-05 -->
 
-				   <div id="modal-06" class="popup-modal slider mfp-hide">	
+			   <div id="modal-06" class="popup-modal slider mfp-hide">	
 
-				     	<div class="media">
-				     		<img src="images/portfolio/modals/m-salad.jpg" alt="" />
-				     	</div>      	
+					 <div class="media">
+						 <img src="images/portfolio/modals/m-salad.jpg" alt="" />
+					 </div>      	
 
-					   <div class="description-box">
-					      <h4>Salad</h4>		      
-					      <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
+				   <div class="description-box">
+					  <h4>Salad</h4>		      
+					  <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
 
-					      <div class="categories">Branding</div>			               
-					   </div>
+					  <div class="categories">Branding</div>			               
+				   </div>
 
-			         <div class="link-box">
-			            <a href="http://www.behance.net">Details</a>
-					      <a href="#" class="popup-modal-dismiss">Close</a>
-			         </div>		      
+				 <div class="link-box">
+					<a href="http://www.behance.net">Details</a>
+					  <a href="#" class="popup-modal-dismiss">Close</a>
+				 </div>		      
 
-				   </div> <!-- /modal-06 -->
+			   </div> <!-- /modal-06 -->
 
 
-				   <!-- modal popups - end
-	            ============================================================= -->
+			   <!-- modal popups - end
+			============================================================= -->
 
-	         </div> <!-- /portfolio-wrapper --> 
+		 </div> <!-- /portfolio-wrapper --> 
 
-   		</div>  <!-- /twelve -->   
+	   </div>  <!-- /twelve -->   
 
-   	</div> <!-- /portfolio-content --> 
-		
-	</section> <!-- /portfolio --> 
+   </div> <!-- /portfolio-content --> 
+	
+</section> <!-- /portfolio --> 
 
 
 	<!-- CTA Section
@@ -1173,49 +1053,58 @@
    ================================================== -->
 	<section id="stats" class="count-up">
 
-		<div class="customer-logos">
-			<div class="slide"><img src="new_logos/1.jpeg" style=" width: 100px;height: 100px;"></div>
-			<div class="slide"><img src="new_logos/2.png" style=" width: 100px;height: 100px;"></div>
-			<div class="slide"><img src="new_logos/2-1.jpg" style=" width: 100px;height: 100px;"></div>
-			<div class="slide"><img src="new_logos/3.jpg" style=" width: 100px;height: 100px;"></div>
-			<div class="slide"><img src="new_logos/4.jpg" style=" width: 100px;height: 100px;"></div>
-			<div class="slide"><img src="new_logos/5.jpg" style=" width: 100px;height: 100px;"></div>
-			<div class="slide"><img src="new_logos/6.jpg" style=" width: 100px;height: 100px;"></div>
-			<div class="slide"><img src="new_logos/7.png" style=" width: 100px;height: 100px;"></div>
-			<div class="slide"><img src="new_logos/8.png" style=" width: 100px;height: 100px;"></div>
-			<div class="slide"><img src="new_logos/9.png"  style=" width: 100px;height: 100px;"></div>
-			<div class="slide"><img src="new_logos/10367163_873649752734049_4784905607132103254_n.jpg" style=" width: 100px;height: 100px;"></div>
-			<div class="slide"><img src="new_logos/10393572_1375537962747757_739480203952902451_n.jpg" style=" width: 100px;height: 100px;"></div>
-			<div class="slide"><img src="new_logos/11692488_498183043665975_3164165610722297103_n.png" style=" width: 100px;height: 100px;"></div>
-			<div class="slide"><img src="new_logos/11751416_378917342305005_6314085151534843264_n.png" style=" width: 100px;height: 100px;"></div>
-			<div class="slide"><img src="new_logos/12087999_951560061549920_2324878012040445356_n.png" style=" width: 100px;height: 100px;"></div>
-			<div class="slide"><img src="new_logos/12662503_547427298755072_5978739247754954824_n.jpg" style=" width: 100px;height: 100px;"></div>
-			<div class="slide"><img src="new_logos/15740940_1322398514498191_8493494039919148658_n.png" style=" width: 100px;height: 100px;"></div>
-			<div class="slide"><img src="new_logos/15941164_1831751113759176_6519337260755516819_n.png" style=" width: 100px;height: 100px;"></div>
-			<div class="slide"><img src="new_logos/20882124_1230602140419696_5952308807454077750_n.jpg" style=" width: 100px;height: 100px;"></div>
-			<div class="slide"><img src="new_logos/20883096_1497539430337268_3527076516843456577_n.png" style=" width: 100px;height: 100px;"></div>
-			<div class="slide"><img src="new_logos/26220206_886554421506456_4353931439444707510_n.jpg" style=" width: 100px;height: 100px;"></div>
-			<div class="slide"><img src="new_logos/26229439_732283243634257_2277945573178127892_n.jpg" style=" width: 100px;height: 100px;"></div>
-			<div class="slide"><img src="new_logos/30714840_1674401422642667_5914995897392955392_n.jpg" style=" width: 100px;height: 100px;"></div>
-			<div class="slide"><img src="new_logos/34316889_1721358391280287_1830951065160253440_n.jpg" style=" width: 100px;height: 100px;"></div>
-			<div class="slide"><img src="new_logos/36482995_2115540668705190_550030064729718784_n.jpg" style=" width: 100px;height: 100px;"></div>
-			<div class="slide"><img src="new_logos/37702691_2151752945042943_5527581755575369728_n.jpg" style=" width: 100px;height: 100px;"></div>
-			<div class="slide"><img src="new_logos/42701983_2175361799201547_3122291772215001088_n.jpg" style=" width: 100px;height: 100px;"></div>
-			<div class="slide"><img src="new_logos/45002938_303655310362093_8351598052062003200_n.png" style=" width: 100px;height: 100px;"></div>
-			<div class="slide"><img src="new_logos/46830927_998653253675026_8932510482133155840_n.png" style=" width: 100px;height: 100px;"></div>
-			<div class="slide"><img src="new_logos/47576187_1825381390894262_4372221804761055232_n.jpg" style=" width: 100px;height: 100px;"></div>
-			<div class="slide"><img src="new_logos/48090875_1152037494953763_5141243352741576704_n.png" style=" width: 100px;height: 100px;"></div>
-			<div class="slide"><img src="new_logos/50734539_623143108105559_4158640378280411136_n.png" style=" width: 100px;height: 100px;"></div> 
-			<div class="slide"><img src="new_logos/59299161_2132853026810742_2057900616004403200_n.jpg" style=" width: 100px;height: 100px;"></div>
-			<div class="slide"><img src="new_logos/60288154_2293707007555084_7775084875387764736_n.png" ></div>
-			<div class="slide"><img src="new_logos/80653331_736676886741839_2639038544743497728_o.jpg"></div>
-			<div class="slide"><img src="new_logos/101510315_3268344519843545_2697017365072247783_n.jpg"></div> 
-			<div class="slide"><img src="new_logos/AnesthesiaLogo.png"></div>
-			<div class="slide"><img src="new_logos/download-1.jpg"></div>
-			<div class="slide"><img src="new_logos/DulexLab_Logo.png"></div>
-			<div class="slide"><img src="new_logos/photo-1.jpg"></div> 
-			<div class="slide"><img src="new_logos/photo.jpg"></div> 
-			<div class="slide"><img src="new_logos/sos-logo.png"></div> 
+		<div id="cont" class="customer-logos">
+			<div id="third" class="carouseller"> 
+				<a href="javascript:void(0)" class="carousel-button-left">‹</a> 
+				<div class="carousel-wrapper"> 
+					<div class="carousel-items"> 
+						<div class="span4 carousel-block"><img src="new_logos/1.jpeg"  ></div>
+						<div class="span4 carousel-block"><img src="new_logos/2.png"  ></div>
+						<div class="span4 carousel-block"><img src="new_logos/2-1.jpg"  ></div>
+						<div class="span4 carousel-block"><img src="new_logos/3.jpg"  ></div>
+						<div class="span4 carousel-block"><img src="new_logos/4.jpg"  ></div>
+						<div class="span4 carousel-block"><img src="new_logos/5.jpg"  ></div>
+						<div class="span4 carousel-block"><img src="new_logos/6.jpg"  ></div>
+						<div class="span4 carousel-block"><img src="new_logos/7.png"  ></div>
+						<div class="span4 carousel-block"><img src="new_logos/8.png"  ></div>
+						<div class="span4 carousel-block"><img src="new_logos/9.png"   ></div>
+						<div class="span4 carousel-block"><img src="new_logos/10367163_873649752734049_4784905607132103254_n.jpg"  ></div>
+						<div class="span4 carousel-block"><img src="new_logos/10393572_1375537962747757_739480203952902451_n.jpg"  ></div>
+						<div class="span4 carousel-block"><img src="new_logos/11692488_498183043665975_3164165610722297103_n.png"  ></div>
+						<div class="span4 carousel-block"><img src="new_logos/11751416_378917342305005_6314085151534843264_n.png"  ></div>
+						<div class="span4 carousel-block"><img src="new_logos/12087999_951560061549920_2324878012040445356_n.png"  ></div>
+						<div class="span4 carousel-block"><img src="new_logos/12662503_547427298755072_5978739247754954824_n.jpg"  ></div>
+						<div class="span4 carousel-block"><img src="new_logos/15740940_1322398514498191_8493494039919148658_n.png"  ></div>
+						<div class="span4 carousel-block"><img src="new_logos/15941164_1831751113759176_6519337260755516819_n.png"  ></div>
+						<div class="span4 carousel-block"><img src="new_logos/20882124_1230602140419696_5952308807454077750_n.jpg"  ></div>
+						<div class="span4 carousel-block"><img src="new_logos/20883096_1497539430337268_3527076516843456577_n.png"  ></div>
+						<div class="span4 carousel-block"><img src="new_logos/26220206_886554421506456_4353931439444707510_n.jpg"  ></div>
+						<div class="span4 carousel-block"><img src="new_logos/26229439_732283243634257_2277945573178127892_n.jpg"  ></div>
+						<div class="span4 carousel-block"><img src="new_logos/30714840_1674401422642667_5914995897392955392_n.jpg"  ></div>
+						<div class="span4 carousel-block"><img src="new_logos/34316889_1721358391280287_1830951065160253440_n.jpg"  ></div>
+						<div class="span4 carousel-block"><img src="new_logos/36482995_2115540668705190_550030064729718784_n.jpg"  ></div>
+						<div class="span4 carousel-block"><img src="new_logos/37702691_2151752945042943_5527581755575369728_n.jpg"  ></div>
+						<div class="span4 carousel-block"><img src="new_logos/42701983_2175361799201547_3122291772215001088_n.jpg"  ></div>
+						<div class="span4 carousel-block"><img src="new_logos/45002938_303655310362093_8351598052062003200_n.png"  ></div>
+						<div class="span4 carousel-block"><img src="new_logos/46830927_998653253675026_8932510482133155840_n.png"  ></div>
+						<div class="span4 carousel-block"><img src="new_logos/47576187_1825381390894262_4372221804761055232_n.jpg"  ></div>
+						<div class="span4 carousel-block"><img src="new_logos/48090875_1152037494953763_5141243352741576704_n.png"  ></div>
+						<div class="span4 carousel-block"><img src="new_logos/50734539_623143108105559_4158640378280411136_n.png"  ></div> 
+						<div class="span4 carousel-block"><img src="new_logos/59299161_2132853026810742_2057900616004403200_n.jpg"  ></div>
+						<div class="span4 carousel-block"><img src="new_logos/60288154_2293707007555084_7775084875387764736_n.png" ></div>
+						<div class="span4 carousel-block"><img src="new_logos/80653331_736676886741839_2639038544743497728_o.jpg"></div>
+						<div class="span4 carousel-block"><img src="new_logos/101510315_3268344519843545_2697017365072247783_n.jpg"></div> 
+						<div class="span4 carousel-block"><img src="new_logos/AnesthesiaLogo.png"></div>
+						<div class="span4 carousel-block"><img src="new_logos/download-1.jpg"></div>
+						<div class="span4 carousel-block"><img src="new_logos/DulexLab_Logo.png"></div>
+						<div class="span4 carousel-block"><img src="new_logos/photo-1.jpg"></div> 
+						<div class="span4 carousel-block"><img src="new_logos/photo.jpg"></div> 
+						<div class="span4 carousel-block"><img src="new_logos/sos-logo.png"></div> 
+					</div>
+				</div>
+				<a href="javascript:void(0)" class="carousel-button-right">›</a>
+			</div>
+
 
 		</div>
 	</section> <!-- /stats -->
@@ -1236,12 +1125,12 @@
    		</div> 
    	</div> <!-- /section-intro -->
 
-   	<div class="row contact-form">
+   	<!-- <div class="row contact-form">
 
-   		<div class="col-twelve">
+   		<div class="col-twelve"> -->
 
             <!-- form -->
-            <form name="contactForm" id="contactForm" method="post" action="">
+            <!-- <form name="contactForm" id="contactForm" method="post" action="">
       			<fieldset>
 
                   <div class="form-field">
@@ -1269,19 +1158,19 @@
                   </div>
 
       			</fieldset>
-      		</form> <!-- Form End -->
+      		</form>  Form End -->
 
             <!-- contact-warning -->
-            <div id="message-warning">            	
-            </div>            
+            <!-- <div id="message-warning">            	
+            </div>             -->
             <!-- contact-success -->
-      		<div id="message-success">
+      		<!-- <div id="message-success">
                <i class="fa fa-check"></i>Your message was sent, thank you!<br>
-      		</div>
+      		</div>  -->
 
-         </div> <!-- /col-twelve -->
+         <!-- </div> /col-twelve -->
    		
-   	</div> <!-- /contact-form -->
+   	<!-- </div> /contact-form -->
 
    	<div class="row contact-info">
 
@@ -1369,36 +1258,76 @@
    </div> 
 
    <!-- Java Script
+	
    ================================================== --> 
+
    <script src="js/jquery-2.1.3.min.js"></script>
    <script src="js/plugins.js"></script>
    <script src="js/main.js"></script>
-   <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.js"></script>
+   <!-- ----------------------khatab-------- -->
 
+<script src="iview/js/jquery-1.7.1.min.js"></script>
+<script type="text/javascript" src="iview/js/raphael-min.js"></script>
+<script type="text/javascript" src="iview/js/jquery.easing.js"></script>
+ <script src="iview/js/iview.js"></script>
+
+<!-- ----------------------khatab-------- -->
+   <script>
+	$(document).ready(function(){
+		$('#iview').iView({
+			pauseTime: 7000,
+			pauseOnHover: true,
+			directionNav: true,
+			directionNavHide: false,
+			directionNavHoverOpacity: 0,
+			controlNav: false,
+			nextLabel: "Nächste",
+			previousLabel: "Vorherige",
+			playLabel: "Spielen",
+			pauseLabel: "Pause",
+			timer: "360Bar",
+			timerPadding: 3,
+			timerColor: "#0F0"
+		});
+
+	});
+</script>
 <script>
 	$(document).ready(function(){
-			$('.customer-logos').slick({
-				slidesToShow: 4,
-				slidesToScroll: 1,
-				autoplay: true,
-				autoplaySpeed: 1000,
-				arrows: false,
-				dots: false,
-					pauseOnHover: false,
-					responsive: [{
-					breakpoint: 768,
-					settings: {
-						slidesToShow: 3
-					}
-				}, {
-					breakpoint: 520,
-					settings: {
-						slidesToShow: 2
-					}
-				}]
-			});
+		$('#iview2').iView({
+			pauseTime: 7000,
+			pauseOnHover: true,
+			directionNav: true,
+			directionNavHide: false,
+			directionNavHoverOpacity: 0,
+			controlNav: false,
+			nextLabel: "Nächste",
+			previousLabel: "Vorherige",
+			playLabel: "Spielen",
+			pauseLabel: "Pause",
+			timer: "360Bar",
+			timerPadding: 3,
+			timerColor: "#0F0"
 		});
+
+	});
 </script>
+
+<script src="js/carouseller.min.js"></script>
+<script src="js/jquery.easing.1.3.js"></script>
+
+<script type="text/javascript">
+	$(function() {
+		$('#third').carouseller({ 
+			scrollSpeed: 800,
+			autoScrollDelay: 1600,
+			easing: 'linear'
+		});
+	});
+</script>
+
+
+
 </body>
 
 </html>
