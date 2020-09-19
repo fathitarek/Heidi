@@ -43,7 +43,7 @@
    			<a class="menu-toggle" href="#"><span>Menu</span></a>
 
 	   		<div class="logo">
-		         <a href="index.html">KARDS</a>
+		         <a href="index.html"></a>
 		      </div>		      
 
 		   	<nav id="main-nav-wrap">
@@ -90,10 +90,10 @@
 
    	<ul class="intro-social">        
          <li><a href="https://www.facebook.com/heidiyounis/"><i class="fa fa-facebook"></i></a></li>
-         <li><a href="#"><i class="fa fa-behance"></i></a></li>
-         <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-         <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
-         <li><a href="https://www.instagram.com/heidiyounis/?fbclid=IwAR3Ps6Mj3Ec0_VnydR3QImytATi7QNV8UQoEeVjgEEVr6tf3SBPjmRDoTjU"><i class="fa fa-instagram"></i></a></li>
+         <li><a href="https://www.linkedin.com/in/heidiyounis/"><i class="fa fa-linkedin"></i></a></li>
+         <li><a href="https://twitter.com/HiediYounis"><i class="fa fa-twitter"></i></a></li>
+         <!-- <li><a href="#"><i class="fa fa-dribbble"></i></a></li> -->
+         <li><a href="https://www.instagram.com/heidiyounis/"><i class="fa fa-instagram"></i></a></li>
       </ul> <!-- /intro-social -->      	
 
    </section> <!-- /intro -->
@@ -200,7 +200,7 @@
 
 				   <div class="timeline-content">
 					   <h4>(Mooga Advertising Agency)-(Tiba Egypt Real Estate)-(Eldayra Production)</h4>
-					<p> freelancing</p>
+					<p style="color: #ebebeb;"> freelancing</p>
 					   <!-- <p>Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor incididunt amet est occaecat nisi incididunt.</p> -->
 				   </div>
 
@@ -411,13 +411,13 @@
 					</div>
  
 					<div class="timeline-header">
-						<h3 style="font-size: 1.8rem;"> Advanced Course in Digital Marketing - DM Arts</h3>
+						<h3 style="font-size: 1.8rem;"> Advanced Course</h3>
 						<p style="color: #ebebeb;">2011</p>
 					</div>
  
 					<div class="timeline-content">
-						<h4 style="color: #ebebeb;">El-Orman language School</h4>
-						<p style="color: #ebebeb;">Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor incididunt amet est occaecat nisi incididunt.</p>
+						<h4>Digital Marketing - DM Arts</h4>
+						<p style="color: #ebebeb;"> Digital Marketing - DM Arts.</p>
 					</div>
  
 				</div> <!-- /timeline-block -->
@@ -435,7 +435,7 @@
  
 					<div class="timeline-content">
 						<h4>NGC Academy</h4>
-						<p style="color: #ebebeb;">Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor incididunt amet est occaecat nisi incididunt.</p>
+						<p style="color: #ebebeb;">A Diploma in Human Resources Management</p>
 					</div>
  
 				</div><!--  /timeline-block -->
@@ -453,7 +453,7 @@
  
 					<div class="timeline-content">
 						<h4 >Ain Shams University</h4>
-						<p style="color: #ebebeb;">Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor incididunt amet est occaecat nisi incididunt.</p>
+						<p style="color: #ebebeb;">Human Development Course</p>
 					</div>
  
 				</div><!--  /timeline-block -->
@@ -464,13 +464,13 @@
 					</div>
  
 					<div class="timeline-header">
-						<h3 style="font-size: 1.8rem;"> Business English - Change Business Center</h3>
+						<h3 style="font-size: 1.8rem;"> Business English</h3>
 						<p style="color: #ebebeb;">May 2013 - June 2014</p>
 					</div>
  
 					<div class="timeline-content">
-						<h4 style="color: #ebebeb;">Design College</h4>
-						<p style="color: #ebebeb;"> Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor incididunt amet est occaecat nisi incididunt.</p>
+						<h4>Change Business Center</h4>
+						<p style="color: #ebebeb;">Change Business Center.</p>
 					</div>
  
 			</div><!--  /timeline-block -->
@@ -483,12 +483,12 @@
 
 				<div class="timeline-header">
 					<h3 style="font-size: 1.8rem;">Excel Course</h3>
-					<p>May 2013 - June 2014</p>
+					<p style="color: #ebebeb;">May 2013 - June 2014</p>
 				</div>
 
 				<div class="timeline-content">
 					<h4>The Information Systems Institute</h4>
-					<p style="color: #ebebeb;">Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor incididunt amet est occaecat nisi incididunt.</p>
+					<p style="color: #ebebeb;">Excel Course</p>
 				</div>
 
 		</div><!--  /timeline-block -->
@@ -500,13 +500,13 @@
 			</div>
 
 			<div class="timeline-header">
-				<h3 style="font-size: 1.8rem;">Photoshop Course - Spaces Center</h3>
+				<h3 style="font-size: 1.8rem;">Photoshop Course</h3>
 				<p style="color: #ebebeb;">May 2013 - June 2014</p>
 			</div>
 
 			<div class="timeline-content">
-				<h4 style="color: #ebebeb;">Design College</h4>
-				<p style="color: #ebebeb;">Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor incididunt amet est occaecat nisi incididunt.</p>
+				<h4>Spaces Center</h4>
+				<p style="color: #ebebeb;">Photoshop Course.</p>
 			</div>
 
 	</div><!--  /timeline-block -->
@@ -961,7 +961,7 @@
 
 			   	<!-- <span class="icon"><i class="icon-paint-brush"></i></span>		             -->
 				   <!-- <span name="fa fa-coffee" style="color: FF0077;"></span> -->
-				   <i class="fa fa-coffee" style="color: #FF0077; font-size: 5.4rem;" aria-hidden="true"></i>
+				   <i class="fa fa-pencil" style="color: #FF0077; font-size: 5.4rem;" aria-hidden="true"></i>
 
 	            <div class="service-content">
 
@@ -1275,10 +1275,10 @@
 
      			<ul class="footer-social">        
 			      <li><a href="https://www.facebook.com/heidiyounis/"><i class="fa fa-facebook"></i></a></li>
-			      <li><a href="#"><i class="fa fa-behance"></i></a></li>
-			      <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-			      <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
-			      <li><a href="https://www.instagram.com/heidiyounis/?fbclid=IwAR3Ps6Mj3Ec0_VnydR3QImytATi7QNV8UQoEeVjgEEVr6tf3SBPjmRDoTjU"><i class="fa fa-instagram"></i></a></li>
+			      <li><a href="https://www.linkedin.com/in/heidiyounis/"><i class="fa fa-linkedin"></i></a></li>
+			      <li><a href="https://twitter.com/HiediYounis"><i class="fa fa-twitter"></i></a></li>
+			      <!-- <li><a href="#"><i class="fa fa-dribbble"></i></a></li> -->
+			      <li><a href="https://www.instagram.com/heidiyounis/"><i class="fa fa-instagram"></i></a></li>
 			   </ul> 
 	      		
 	      </div>
