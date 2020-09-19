@@ -20,7 +20,135 @@
    <link rel="stylesheet" href="css/base.css">  
    <link rel="stylesheet" href="css/main.css">
    <link rel="stylesheet" href="css/vendor.css">     
+<style>
+	.customer-logos {
+  background-color: #990047;
+}
 
+/* Slider */
+.slick-slide {
+    margin: 0px 20px;
+}
+
+.slick-slide img {
+    width: 100%;
+}
+
+.slick-slider
+{
+    position: relative;
+    display: block;
+    box-sizing: border-box;
+
+    -webkit-user-select: none;
+       -moz-user-select: none;
+        -ms-user-select: none;
+            user-select: none;
+
+    -webkit-touch-callout: none;
+    -khtml-user-select: none;
+    -ms-touch-action: pan-y;
+        touch-action: pan-y;
+    -webkit-tap-highlight-color: transparent;
+}
+
+.slick-list
+{
+    position: relative;
+    display: block;
+    overflow: hidden;
+
+    margin: 0;
+    padding: 0;
+}
+.slick-list:focus
+{
+    outline: none;
+}
+.slick-list.dragging
+{
+    cursor: pointer;
+    cursor: hand;
+}
+
+.slick-slider .slick-track,
+.slick-slider .slick-list
+{
+    -webkit-transform: translate3d(0, 0, 0);
+       -moz-transform: translate3d(0, 0, 0);
+        -ms-transform: translate3d(0, 0, 0);
+         -o-transform: translate3d(0, 0, 0);
+            transform: translate3d(0, 0, 0);
+}
+
+.slick-track
+{
+    position: relative;
+    top: 0;
+    left: 0;
+
+    display: block;
+}
+.slick-track:before,
+.slick-track:after
+{
+    display: table;
+
+    content: '';
+}
+.slick-track:after
+{
+    clear: both;
+}
+.slick-loading .slick-track
+{
+    visibility: hidden;
+}
+
+.slick-slide
+{
+    display: none;
+    float: left;
+
+    height: 100%;
+    min-height: 1px;
+}
+[dir='rtl'] .slick-slide
+{
+    float: right;
+}
+.slick-slide img
+{
+    display: block;
+}
+.slick-slide.slick-loading img
+{
+    display: none;
+}
+.slick-slide.dragging img
+{
+    pointer-events: none;
+}
+.slick-initialized .slick-slide
+{
+    display: block;
+}
+.slick-loading .slick-slide
+{
+    visibility: hidden;
+}
+.slick-vertical .slick-slide
+{
+    display: block;
+
+    height: auto;
+
+    border: 1px solid transparent;
+}
+.slick-arrow.slick-hidden {
+    display: none;
+}
+</style>
    <!-- script
    ================================================== -->   
 	<script src="js/modernizr.js"></script>
@@ -1042,112 +1170,51 @@
    ================================================== -->
 	<section id="stats" class="count-up">
 
-		<div class="row">
-			<div class="col-twelve">
+		<div class="customer-logos">
+			<div class="slide"><img src="new_logos/1.jpeg"></div>
+			<div class="slide"><img src="new_logos/2.png"></div>
+			<div class="slide"><img src="new_logos/2-1.jpg"></div>
+			<div class="slide"><img src="new_logos/3.jpg"></div>
+			<div class="slide"><img src="new_logos/4.jpg"></div>
+			<div class="slide"><img src="new_logos/5.jpg"></div>
+			<div class="slide"><img src="new_logos/6.jpg"></div>
+			<div class="slide"><img src="new_logos/7.png"></div>
+			<div class="slide"><img src="new_logos/8.png"></div>
+			<div class="slide"><img src="new_logos/9.png"></div>
+			<div class="slide"><img src="new_logos/10367163_873649752734049_4784905607132103254_n.jpg"></div>
+			<div class="slide"><img src="new_logos/10393572_1375537962747757_739480203952902451_n.jpg"></div>
+			<div class="slide"><img src="new_logos/11692488_498183043665975_3164165610722297103_n.png"></div>
+			<div class="slide"><img src="new_logos/11751416_378917342305005_6314085151534843264_n.png"></div>
+			<div class="slide"><img src="new_logos/12087999_951560061549920_2324878012040445356_n.png"></div>
+			<div class="slide"><img src="new_logos/12662503_547427298755072_5978739247754954824_n.jpg"></div>
+			<div class="slide"><img src="new_logos/15740940_1322398514498191_8493494039919148658_n.png"></div>
+			<div class="slide"><img src="new_logos/15941164_1831751113759176_6519337260755516819_n.png"></div>
+			<div class="slide"><img src="new_logos/20882124_1230602140419696_5952308807454077750_n.jpg"></div>
+			<div class="slide"><img src="new_logos/20883096_1497539430337268_3527076516843456577_n.png"></div>
+			<div class="slide"><img src="new_logos/26220206_886554421506456_4353931439444707510_n.jpg"></div>
+			<div class="slide"><img src="new_logos/26229439_732283243634257_2277945573178127892_n.jpg"></div>
+			<div class="slide"><img src="new_logos/30714840_1674401422642667_5914995897392955392_n.jpg"></div>
+			<div class="slide"><img src="new_logos/34316889_1721358391280287_1830951065160253440_n.jpg"></div>
+			<div class="slide"><img src="new_logos/36482995_2115540668705190_550030064729718784_n.jpg"></div>
+			<div class="slide"><img src="new_logos/37702691_2151752945042943_5527581755575369728_n.jpg"></div>
+			<div class="slide"><img src="new_logos/42701983_2175361799201547_3122291772215001088_n.jpg"></div>
+			<div class="slide"><img src="new_logos/45002938_303655310362093_8351598052062003200_n.png"></div>
+			<div class="slide"><img src="new_logos/46830927_998653253675026_8932510482133155840_n.png"></div>
+			<div class="slide"><img src="new_logos/47576187_1825381390894262_4372221804761055232_n.jpg"></div>
+			<div class="slide"><img src="new_logos/48090875_1152037494953763_5141243352741576704_n.png"></div>
+			<div class="slide"><img src="new_logos/50734539_623143108105559_4158640378280411136_n.png"></div> 
+			<div class="slide"><img src="new_logos/59299161_2132853026810742_2057900616004403200_n.jpg"></div>
+			<div class="slide"><img src="new_logos/60288154_2293707007555084_7775084875387764736_n.png"></div>
+			<div class="slide"><img src="new_logos/80653331_736676886741839_2639038544743497728_o.jpg"></div>
+			<div class="slide"><img src="new_logos/101510315_3268344519843545_2697017365072247783_n.jpg"></div> 
+			<div class="slide"><img src="new_logos/AnesthesiaLogo.png"></div>
+			<div class="slide"><img src="new_logos/download-1.jpg"></div>
+			<div class="slide"><img src="new_logos/DulexLab_Logo.png"></div>
+			<div class="slide"><img src="new_logos/photo-1.jpg"></div> 
+			<div class="slide"><img src="new_logos/photo.jpg"></div> 
+			<div class="slide"><img src="new_logos/sos-logo.png"></div> 
 
-				<div class="block-1-6 block-s-1-3 block-tab-1-2 block-mob-full stats-list">
-
-					<div class="bgrid stat">
-
-						<div class="icon-part">
-							<i class="icon-pencil-ruler"></i>
-						</div>
-
-						<h3 class="stat-count">
-							1500
-						</h3>
-
-						<h5 class="stat-title">
-							Projects Completed
-						</h5>
-
-					</div> <!-- /stat -->					
-
-					<div class="bgrid stat">
-
-						<div class="icon-part">
-							<i class="icon-users"></i>
-						</div>
-
-						<h3 class="stat-count">
-							900
-						</h3>
-
-						<h5 class="stat-title">
-							Happy Clients
-						</h5>
-
-					</div> <!-- /stat -->
-
-					<div class="bgrid stat">
-
-						<div class="icon-part">
-							<i class="icon-badge"></i>
-						</div>
-
-						<h3 class="stat-count">
-							200
-						</h3>
-
-						<h5 class="stat-title">
-							Awards Received
-						</h5>
-
-					</div> <!-- /stat -->									
-
-					<div class="bgrid stat">
-
-						<div class="icon-part">
-							<i class="icon-light-bulb"></i>
-						</div>
-
-						<h3 class="stat-count">
-							120
-						</h3>
-
-						<h5 class="stat-title">
-							Crazy Ideas
-						</h5>
-
-					</div> <!-- /stat -->
-
-					<div class="bgrid stat">
-
-						<div class="icon-part">
-							<i class="icon-cup"></i>
-						</div>
-
-						<h3 class="stat-count">
-							1500
-						</h3>
-
-						<h5 class="stat-title">
-							Coffee Cups
-						</h5>
-
-					</div> <!-- /stat -->
-
-					<div class="bgrid stat">
-
-						<div class="icon-part">
-							<i class="icon-clock"></i>
-						</div>
-
-						<h3 class="stat-count">
-							7200
-						</h3>
-
-						<h5 class="stat-title">
-							Hours
-						</h5>
-
-					</div> <!-- /stat -->
-
-				</div> <!-- /stats-list -->
-
-			</div> <!-- /twelve -->
-		</div> <!-- /row -->
-
+		</div>
 	</section> <!-- /stats -->
 
 	
@@ -1223,11 +1290,8 @@
 
    			<h5>Where to find me</h5>
 
-   			<p>
-            1600 Amphitheatre Parkway<br>
-            Mountain View, CA<br>
-            94043 US
-            </p>
+   			<p>Cairo</p>
+            <p>Dubai</p>
 
    		</div>
 
@@ -1306,7 +1370,32 @@
    <script src="js/jquery-2.1.3.min.js"></script>
    <script src="js/plugins.js"></script>
    <script src="js/main.js"></script>
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.js"></script>
 
+<script>
+	$(document).ready(function(){
+			$('.customer-logos').slick({
+				slidesToShow: 4,
+				slidesToScroll: 1,
+				autoplay: true,
+				autoplaySpeed: 1000,
+				arrows: false,
+				dots: false,
+					pauseOnHover: false,
+					responsive: [{
+					breakpoint: 768,
+					settings: {
+						slidesToShow: 3
+					}
+				}, {
+					breakpoint: 520,
+					settings: {
+						slidesToShow: 2
+					}
+				}]
+			});
+		});
+</script>
 </body>
 
 </html>
