@@ -42,9 +42,9 @@
    		<div class="top-bar">
    			<a class="menu-toggle" href="#"><span>Menu</span></a>
 
-	   		<div class="logo">
+	   		<!-- <div class="logo">
 		         <a href="index.html"></a>
-		      </div>		      
+		      </div>		       -->
 
 		   	<nav id="main-nav-wrap">
 					<ul class="main-navigation">
@@ -71,7 +71,7 @@
    	<div class="intro-content">
    		<div class="row">
 
-   			<div class="col-twelve" style=" margin-top: 70px;">
+   			<div class="col-twelve" style=" margin-top: 150px;">
 
 	   			<h5>Hi</h5>
 	   			<h1>I'm  Heidi Younis.</h1>
