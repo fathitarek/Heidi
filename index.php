@@ -411,13 +411,13 @@
 					</div>
  
 					<div class="timeline-header">
-						<h3 style="font-size: 1.8rem;"> Advanced Course</h3>
+						<h3 style="font-size: 1.8rem;"> Advanced Course in Digital Marketing</h3>
 						<p style="color: #ebebeb;">2011</p>
 					</div>
  
 					<div class="timeline-content">
-						<h4>Digital Marketing - DM Arts</h4>
-						<p style="color: #ebebeb;"> Digital Marketing - DM Arts.</p>
+						<h4> DM Arts</h4>
+						<p style="color: #ebebeb;"> Digital.</p>
 					</div>
  
 				</div> <!-- /timeline-block -->
@@ -435,7 +435,7 @@
  
 					<div class="timeline-content">
 						<h4>NGC Academy</h4>
-						<p style="color: #ebebeb;">A Diploma in Human Resources Management</p>
+						<p style="color: #ebebeb;">A</p>
 					</div>
  
 				</div><!--  /timeline-block -->
@@ -453,7 +453,7 @@
  
 					<div class="timeline-content">
 						<h4 >Ain Shams University</h4>
-						<p style="color: #ebebeb;">Human Development Course</p>
+						<p style="color: #ebebeb;">Human </p>
 					</div>
  
 				</div><!--  /timeline-block -->
@@ -506,7 +506,7 @@
 
 			<div class="timeline-content">
 				<h4>Spaces Center</h4>
-				<p style="color: #ebebeb;">Photoshop Course.</p>
+				<p style="color: #ebebeb;">Photoshop.</p>
 			</div>
 
 	</div><!--  /timeline-block -->
