@@ -394,7 +394,7 @@
  
 					<div class="timeline-header">
 						<h4 style="font-size: 1.8rem;">A professional Diploma in Emarketing</h4>
-						<p style="color: #ebebeb;">Class: 2011-2012</p>
+						<p style="color: #ebebeb;"></p>
 					</div>
  
 					<div class="timeline-content">
@@ -412,7 +412,7 @@
  
 					<div class="timeline-header">
 						<h3 style="font-size: 1.8rem;"> Advanced Course in Digital Marketing</h3>
-						<p style="color: #ebebeb;">2011</p>
+						<p style="color: #ebebeb;"></p>
 					</div>
  
 					<div class="timeline-content">
@@ -430,7 +430,7 @@
  
 					<div class="timeline-header">
 						<h3 style="font-size: 1.8rem;"> A Diploma in Human Resources Management</h3>
-						<p style="color: #ebebeb;">May 2013 - June 2014</p>
+						<p style="color: #ebebeb;"></p>
 					</div>
  
 					<div class="timeline-content">
@@ -448,7 +448,7 @@
  
 					<div class="timeline-header">
 						<h3 style="font-size: 1.8rem;"> Human Development Course </h3>
-						<p style="color: #ebebeb;"> May 2013 - June 2014</p>
+						<p style="color: #ebebeb;"></p>
 					</div>
  
 					<div class="timeline-content">
@@ -465,7 +465,7 @@
  
 					<div class="timeline-header">
 						<h3 style="font-size: 1.8rem;"> Business English</h3>
-						<p style="color: #ebebeb;">May 2013 - June 2014</p>
+						<p style="color: #ebebeb;"></p>
 					</div>
  
 					<div class="timeline-content">
@@ -483,7 +483,7 @@
 
 				<div class="timeline-header">
 					<h3 style="font-size: 1.8rem;">Excel Course</h3>
-					<p style="color: #ebebeb;">May 2013 - June 2014</p>
+					<p style="color: #ebebeb;"></p>
 				</div>
 
 				<div class="timeline-content">
@@ -501,7 +501,7 @@
 
 			<div class="timeline-header">
 				<h3 style="font-size: 1.8rem;">Photoshop Course</h3>
-				<p style="color: #ebebeb;">May 2013 - June 2014</p>
+				<p style="color: #ebebeb;"></p>
 			</div>
 
 			<div class="timeline-content">
