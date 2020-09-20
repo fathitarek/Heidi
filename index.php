@@ -864,6 +864,10 @@
 			============================================================= -->
 
 		 </div> <!-- /portfolio-wrapper --> 
+		 <!-- <a href="styles.html" class="button stroke smoothscroll"  title="">More Projects</a> -->
+		 <div style="margin-top: 40px;text-align: center;">
+		 <a class="button button-primary large" href="styles.html" style="background:#cc005f;">More Projects</a>
+		</div>
 
 	   </div>  <!-- /twelve -->   
 
