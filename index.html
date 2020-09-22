@@ -26,7 +26,12 @@
 
 <!-- ------------------------------ -->
 <link rel="stylesheet" href="css/carouseller.css">
-
+<style>
+	.carouseller > .carousel-wrapper > .carousel-items > .span4 {width:190px; height: 19	0px;}
+	#cont div {
+	height: 100px;
+	}
+</style>
 <!-- ------------------------------ -->
 
    <!-- script
@@ -63,7 +68,7 @@
 						<li><a class="smoothscroll"  href="#services" title="">Skills</a></li>	
 						<li><a class="smoothscroll"  href="#stats" title="">Clients</a></li>					
 						<li><a class="smoothscroll"  href="#contact" title="">Contact</a></li>
-						<li><a href="styles.html" title="">Style Demo</a></li>				
+						<!-- <li><a href="styles.html" title="">Style Demo</a></li>				 -->
 					</ul>
 				</nav>    		
    		</div> <!-- /top-bar --> 
@@ -641,15 +646,16 @@
 
 			 <div class="bgrid folio-item">
 			   <div class="item-wrap"  style="position: relative;">
-				   <img src="images/portfolio/liberty.jpg" alt="Liberty">
-				  
+				   <!-- <img src="images/portfolio/liberty.jpg" alt="Liberty"> -->
+				   <iframe src="portfolio/short films/raw final Preview.mp4" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
+
 				  <a href="#modal-01" class="overlay">	
 					              	           
 					 <div class="folio-item-table">
 						 <div class="folio-item-cell">
-								<h3 class="folio-title">Liberty</h3>	     					    
+								<h3 class="folio-title">video hear the world</h3>	     					    
 								<span class="folio-types">
-									Graphic Design
+									video hear the world
 								</span>
 						</div>	                      	
 					 </div>                    
@@ -659,13 +665,13 @@
 
 				<div class="bgrid folio-item">
 			   <div class="item-wrap">
-				   <img src="images/portfolio/shutterbug.jpg" alt="Shutterbug">
+				   <img src="portfolio/P & G/3 (2).png" alt="Shutterbug">
 				   <a href="#modal-02" class="overlay">              		                  
 					 <div class="folio-item-table">
 						 <div class="folio-item-cell">
-							 <h3 class="folio-title">Shutterbug</h3>	     					    
+							 <h3 class="folio-title">P & G</h3>	     					    
 									 <span class="folio-types">
-										  Web Design
+										  P & G
 								   </span>		     		
 								</div> 	                      	
 					 </div>                    
@@ -675,13 +681,15 @@
 
 			<div class="bgrid folio-item">
 			   <div class="item-wrap">
-				   <img src="images/portfolio/clouds.jpg"alt="Clouds">
+				   <!-- <img src="images/portfolio/clouds.jpg"alt="Clouds"> -->
+				   <iframe src="portfolio/Bioderma/Al Dawaa - Like U There.mp4" width="100%" height="100%" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
+
 				  <a href="#modal-03" class="overlay">             		                  
 					 <div class="folio-item-table">
 						 <div class="folio-item-cell">
-							 <h3 class="folio-title">Clouds</h3>	     					    
+							 <h3 class="folio-title">Bioderma</h3>	     					    
 									 <span class="folio-types">
-										  Web Design
+										Bioderma
 								   </span>		     		
 								</div> 	                      	
 					 </div>                    
@@ -691,13 +699,13 @@
 
 			<div class="bgrid folio-item">
 			   <div class="item-wrap">
-				   <img src="images/portfolio/beetle.jpg" alt="Beetle">
-				  <a href="#modal-04" class="overlay">                  	                 
+				<img src="portfolio/abo zeid/Make Them Camp/make them tasty/make them tasty 3.jpg" alt="" />
+				<a href="#modal-04" class="overlay">                  	                 
 					 <div class="folio-item-table">
 						 <div class="folio-item-cell">
-							 <h3 class="folio-title">Beetle</h3>	     					    
+							 <h3 class="folio-title">abo zeid</h3>	     					    
 									 <span class="folio-types">
-										  Branding
+										abo zeid
 								   </span>		     		
 								</div>  	                      	
 					 </div>                    
@@ -707,13 +715,13 @@
 
 				<div class="bgrid folio-item">
 			   <div class="item-wrap">
-				   <img src="images/portfolio/lighthouse.jpg" alt="Lighthouse">
+				   <img src="portfolio/Etoile/تورتة-الضحك.png" alt="Lighthouse">
 				  <a href="#modal-05" class="overlay">             		                  
 					 <div class="folio-item-table">
 						 <div class="folio-item-cell">
-							 <h3 class="folio-title">Lighthouse</h3>	     					    
+							 <h3 class="folio-title">Etoile</h3>	     					    
 									 <span class="folio-types">
-										  Web Development
+										Etoile
 								   </span>		     		
 								</div> 	                      	
 					 </div>                    
@@ -723,13 +731,13 @@
 
 			<div class="bgrid folio-item">
 			   <div class="item-wrap">
-				   <img src="images/portfolio/salad.jpg" alt="Salad">
-				  <a href="#modal-06" class="overlay">
+				<img src="portfolio/Immuguard/HulkHEX (1).png" alt="" />
+				<a href="#modal-06" class="overlay">
 					 <div class="folio-item-table">
 						 <div class="folio-item-cell">
-							 <h3 class="folio-title">Salad</h3>	     					    
+							 <h3 class="folio-title">Immuguard</h3>	     					    
 									 <span class="folio-types">
-										  Branding
+										Immuguard
 								   </span>		     		
 								</div>	                      	
 					 </div>                    
@@ -737,128 +745,299 @@
 			   </div>
 				</div> <!-- /folio-item -->   
 
+
+				<div class="bgrid folio-item">
+			   <div class="item-wrap">
+				<img src="portfolio/Crystal/11755111_1653542238200282_4621106585100053382_n.jpg" alt="" />
+				<a href="#modal-07" class="overlay">
+					 <div class="folio-item-table">
+						 <div class="folio-item-cell">
+							 <h3 class="folio-title">Crystal</h3>	     					    
+									 <span class="folio-types">
+									 Crystal
+								   </span>		     		
+								</div>	                      	
+					 </div>                    
+				  </a>
+			   </div>
+				</div> <!-- /folio-item --> 
+
+
+				<div class="bgrid folio-item">
+					<div class="item-wrap">
+						<img src="portfolio/Daily medical info/84408083_10158622156946874_749149382841991168_o.jpg" alt="" />
+						<a href="#modal-08" class="overlay">
+						  <div class="folio-item-table">
+							  <div class="folio-item-cell">
+								  <h3 class="folio-title">Daily medical info</h3>	     					    
+										  <span class="folio-types">
+											Daily medical info
+										</span>		     		
+									 </div>	                      	
+						  </div>                    
+					   </a>
+					</div>
+					 </div> <!-- /folio-item --> 
+
+
+					 <div class="bgrid folio-item">
+						<div class="item-wrap">
+							<img src="portfolio/Aldawaa/كأنك هناك/Eiffel tower.png" alt="" />
+							<a href="#modal-09" class="overlay">
+							  <div class="folio-item-table">
+								  <div class="folio-item-cell">
+									  <h3 class="folio-title">ka2nak honak </h3>	     					    
+											  <span class="folio-types">
+												ka2nak honak 
+											</span>		     		
+										 </div>	                      	
+							  </div>                    
+						   </a>
+						</div>
+						 </div> <!-- /folio-item --> 
+
+						 <div class="bgrid folio-item">
+							<div class="item-wrap">
+								<img src="portfolio/innovato/favicon.png" alt="" />
+								<a href="#modal-10" class="overlay">
+								  <div class="folio-item-table">
+									  <div class="folio-item-cell">
+										  <h3 class="folio-title">innovato company profile </h3>	     					    
+												  <span class="folio-types">
+													innovato company profile 
+												</span>		     		
+											 </div>	                      	
+								  </div>                    
+							   </a>
+							</div>
+							 </div> <!-- /folio-item --> 
 			<!-- modal popups - begin
 			============================================================= -->
 			<div id="modal-01" class="popup-modal slider mfp-hide">	
 
 					 <div class="media">
-						 <img src="images/portfolio/modals/m-liberty.jpg" alt="" />
+						 <!-- <img src="images/portfolio/modals/m-liberty.jpg" alt="" /> -->
+						 <iframe src="portfolio/short films/raw final Preview.mp4" width="100%" height="100%" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
+
 					 </div>      	
 
 				   <div class="description-box">
-					  <h4>Liberty</h4>		      
-					  <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
+					  <h4>Slogan Announcement – International conference about cochlear implant</h4>		      
+<p> 
+After creating the opening ceremony's slogan I had to think of a way to show it..
+The whole concept here exists in collecting the world's best sounds and mixing them all together
+Fayrouz's voice - rain drops - wind sound - child's laugh - sea waves - birds singing and other :)
+Creative by me. </p>
 
-					  <div class="categories">Web Development</div>			               
+					  <div class="categories">video hear the world</div>			               
 				   </div>
 
-				 <div class="link-box">
+				 <!-- <div class="link-box">
 					<a href="http://www.behance.net">Details</a>
 					  <a href="#" class="popup-modal-dismiss">Close</a>
-				 </div>		      
+				 </div>		       -->
 
 			   </div> <!-- /modal-01 -->
 
 			   <div id="modal-02" class="popup-modal slider mfp-hide">	
 
 					 <div class="media">
-						 <img src="images/portfolio/modals/m-shutterbug.jpg" alt="" />
+						 <img src="portfolio/P & G/3 (2).png" alt="" />
 					 </div>      	
 
 				   <div class="description-box">
-					  <h4>Shutterbug</h4>		      
-					  <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
-
-					  <div class="categories">Web Design</div>			               
+					  <h4>Ja wagty</h4>		      
+<p>
+	Team worked on this project:
+	Eugiene Medhat, Merna Zahran, Mohammed Amer, Mohamed Rady and Heidi Younis.
+	</p>
+					  <div class="categories">P & G</div>			               
 				   </div>
 
-				 <div class="link-box">
+				 <!-- <div class="link-box">
 					<a href="http://www.behance.net">Details</a>
 					  <a href="#" class="popup-modal-dismiss">Close</a>
-				 </div>		      
+				 </div>		       -->
 
 			   </div> <!-- /modal-02 -->
 
 			   <div id="modal-03" class="popup-modal slider mfp-hide">	
 
 					 <div class="media">
-						 <img src="images/portfolio/modals/m-clouds.jpg" alt="" />
-					 </div>      	
+						<iframe src="portfolio/Bioderma/Al Dawaa - Like U There.mp4" width="100%" height="100%" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
+					</div>      	
 
 				   <div class="description-box">
-					  <h4>Clouds</h4>		      
-					  <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
-
-					  <div class="categories">Web Design</div>			               
+					  <h4>Ka2anak Honak</h4>		      
+<p>
+	A script written by me for Bioderma – Biotech Gulf 
+	</p>
+					  <div class="categories">Bioderma</div>			               
 				   </div>
 
-				 <div class="link-box">
+				 <!-- <div class="link-box">
 					<a href="http://www.behance.net">Details</a>
 					  <a href="#" class="popup-modal-dismiss">Close</a>
-				 </div>		      
+				 </div>		       -->
 
 			   </div> <!-- /modal-03 -->
 
 			   <div id="modal-04" class="popup-modal slider mfp-hide">	
 
 					 <div class="media">
-						 <img src="images/portfolio/modals/m-beetle.jpg" alt="" />
+						 <img src="portfolio/abo zeid/Make Them Camp/make them tasty/make them tasty 3.jpg" alt="" />
 					 </div>      	
 
 				   <div class="description-box">
-					  <h4>Beetle</h4>		      
-					  <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
+					  <h4>Make them | Abozeid beauty clinics</h4>		      
+<p>
 
-					  <div class="categories">Branding</div>			               
+	Make them campaign for plastic surgeries 
+	Targeting Adults & gown up ladies
+	</p>>
+					  <div class="categories">abo zeid</div>			               
 				   </div>
 
-				 <div class="link-box">
+				 <!-- <div class="link-box">
 					<a href="http://www.behance.net">Details</a>
 					  <a href="#" class="popup-modal-dismiss">Close</a>
-				 </div>		      
+				 </div>		       -->
 
 			   </div> <!-- /modal-04 -->
 
 			   <div id="modal-05" class="popup-modal slider mfp-hide">	
 
 					 <div class="media">
-						 <img src="images/portfolio/modals/m-lighthouse.jpg" alt="" />
-					 </div>      	
+						<img src="portfolio/Etoile/تورتة-الضحك.png" alt="Lighthouse">
+					</div>      	
 
 				   <div class="description-box">
-					  <h4>Lighthouse</h4>		      
-					  <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
-
-					  <div class="categories">Web Development</div>			               
+					  <h4>Etoile</h4>		      
+<p>Sample of my works for one of my favorite clients, Etoile Patisserie.  </p>>
+					  <div class="categories">Etoile</div>			               
 				   </div>
 
-				 <div class="link-box">
+				 <!-- <div class="link-box">
 					<a href="http://www.behance.net">Details</a>
 					  <a href="#" class="popup-modal-dismiss">Close</a>
-				 </div>		      
+				 </div>		       -->
 
 			   </div> <!-- /modal-05 -->
 
 			   <div id="modal-06" class="popup-modal slider mfp-hide">	
 
 					 <div class="media">
-						 <img src="images/portfolio/modals/m-salad.jpg" alt="" />
-					 </div>      	
+						<img src="portfolio/Immuguard/HulkHEX (1).png" alt="" />
+					</div>      	
 
 				   <div class="description-box">
-					  <h4>Salad</h4>		      
-					  <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
-
-					  <div class="categories">Branding</div>			               
+					  <h4>شهر بتسعين يوم مناعة</h4>		      
+<p>Immuguard is represented in superheroes, as superheroes are absolutely a topic of interest their tales of fantastic teams and powerful individuals have found a way to connect with audiences of all age groups.
+	3 posts with three different super powers, they’re all fighting against coronavirus all on their own way
+	First superpower is speed and reaction time superior  represented in captain America and his weapon "The shield" and here's how Immuguard is super-efficient in such a short time
+	Second superpower is strength represented in The Hulk as Immuguagrd will make you strong enough to stand against the virus.
+	Third Superpower is spider alert which is the stronger senses represented in spiderman and here we talk about how immuguard is super sensitive towards any foreign bodies that may attack on your system
+	</p>>
+					  <div class="categories">Immuguard</div>			               
 				   </div>
 
-				 <div class="link-box">
+				 <!-- <div class="link-box">
 					<a href="http://www.behance.net">Details</a>
 					  <a href="#" class="popup-modal-dismiss">Close</a>
-				 </div>		      
+				 </div>		       -->
 
 			   </div> <!-- /modal-06 -->
 
+
+			   <div id="modal-07" class="popup-modal slider mfp-hide">	
+
+					 <div class="media">
+					 <img src="portfolio/Crystal/11755111_1653542238200282_4621106585100053382_n.jpg" alt="" />
+					</div>      	
+
+				   <div class="description-box">
+					  <h4>حكم شهية – سمنة كريستال - 2015</h4>		      
+<p>Hekam Shahia is a campaign made for Crystal Ghee Arabia Facebook Page targeting B & C class</p>>
+					  <div class="categories">Crystal</div>			               
+				   </div>
+
+				 <!-- <div class="link-box">
+					<a href="http://www.behance.net">Details</a>
+					  <a href="#" class="popup-modal-dismiss">Close</a>
+				 </div>		       -->
+
+			   </div> <!-- /modal-07 -->
+			   <div id="modal-08" class="popup-modal slider mfp-hide">	
+
+				<div class="media">
+				<img src="portfolio/Daily medical info/84408083_10158622156946874_749149382841991168_o.jpg" alt="" />
+			   </div>      	
+
+			  <div class="description-box">
+				 <h4> كان هنا – اليوم العالمي للسرطان</h4>		      
+<p>
+	
+	The most personal is the most creative” said Bong Joon. Through this campaign, we focused on emotions. It wasn’t easy to integrate our minds & feelings to effectively come out with that work.
+	Team worked on this: 
+	Merna Zahran, Eugiene Medhat, Mohamed Amer, Mohamed Radi, and Heidi Younis.
+		</p>>
+				 <div class="categories">حكم شهية – سمنة كريستال</div>			               
+			  </div>
+
+			<!-- <div class="link-box">
+			   <a href="http://www.behance.net">Details</a>
+				 <a href="#" class="popup-modal-dismiss">Close</a>
+			</div>		       -->
+
+		  </div> <!-- /modal-08 -->
+
+		  <div id="modal-09" class="popup-modal slider mfp-hide">	
+
+			<div class="media">
+							<img src="portfolio/Aldawaa/كأنك هناك/Eiffel tower.png" alt="" />
+		   </div>      	
+
+		  <div class="description-box">
+			 <h4>كأنك هناك – صيف 2020 </h4>		      
+<p>
+	
+	After a tough summer this year let’s give the audience the chance to enjoy their summer in quarantine using some of our products that will give them the same feeling of a good summer abroad.
+	Client: Aldawaa Pharmacies in Saudi Arabia.
+	Creative by Eugiene Medhat
+	Team worked on this project: Mohamed Rady, Mohamed Amer, Merna Zahran and Heidi Younis.
+	
+	</p>>
+			 <div class="categories">ka2nak honak </div>			               
+		  </div>
+
+		<!-- <div class="link-box">
+		   <a href="http://www.behance.net">Details</a>
+			 <a href="#" class="popup-modal-dismiss">Close</a>
+		</div>		       -->
+
+	  </div> <!-- /modal-09 -->
+
+	  <div id="modal-10" class="popup-modal slider mfp-hide">	
+
+		<div class="media">
+						<img src="portfolio/innovato/favicon.png" alt="" />
+	   </div>      	
+
+	  <div class="description-box">
+		 <h4>Innovato – Creative Company Profile </h4>		      
+<p>
+	How Hard is it to replace “mission, vision, who we are and what we do” that we read all the time in all company profiles, with some other creative titles to catch the reader’s eyes?
+	Have a look at this company profile and find out!
+	</p>
+		 <div class="categories">innovato company profile </div>			               
+	  </div>
+
+	<!-- <div class="link-box">
+	   <a href="http://www.behance.net">Details</a>
+		 <a href="#" class="popup-modal-dismiss">Close</a>
+	</div>		       -->
+
+  </div> <!-- /modal-10 -->
 
 			   <!-- modal popups - end
 			============================================================= -->
@@ -866,7 +1045,7 @@
 		 </div> <!-- /portfolio-wrapper --> 
 		 <!-- <a href="styles.html" class="button stroke smoothscroll"  title="">More Projects</a> -->
 		 <div style="margin-top: 40px;text-align: center;">
-		 <a class="button button-primary large" href="styles.html" style="background:#cc005f;">More Projects</a>
+		 <a class="button button-primary large" href="projects.html" style="background:#cc005f;">More Projects</a>
 		</div>
 
 	   </div>  <!-- /twelve -->   
@@ -1055,7 +1234,7 @@
 
 	<!-- stats Section
    ================================================== -->
-	<section id="stats" class="count-up">
+	<section id="stats" class="count-up" style="height: 100px;">
 
 		<div id="cont" class="customer-logos">
 			<div id="third" class="carouseller"> 
